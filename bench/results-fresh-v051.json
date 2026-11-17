@@ -1,0 +1,4290 @@
+[
+ {
+  "claim": "7 in 10 Americans believe the country is",
+  "url": "https://pbs.org/newshour/nation/new-survey-finds-more-than-two-thirds-of-americans-believe-their-country-is-in-decline",
+  "sentence": "Inflation is causing real economic pain. Worries about healthcare costs have jumped sharply. And 7 in 10 Americans believe the country is in decline.",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://prri.org/research/darkening-mood-and-shifting-political-loyalties-ahead-of-midterm-elections-findings-from-the-2026-american-values-survey/  (published 2026-10-20)",
+  "tree": {
+   "url": "https://pbs.org/newshour/nation/new-survey-finds-more-than-two-thirds-of-americans-believe-their-country-is-in-decline",
+   "found": true,
+   "context": "Inflation is causing real economic pain. Worries about healthcare costs have jumped sharply. And 7 in 10 Americans believe the country is in decline.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://prri.org/research/darkening-mood-and-shifting-political-loyalties-ahead-of-midterm-elections-findings-from-the-2026-american-values-survey/",
+     "found": true,
+     "context": "Over seven in ten Americans say the country (71%) and the economy (76%) are headed in the wrong direction, up from 62% and 65%, respectively, in 2025.…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "2026-10-20",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-10-29"
+  },
+  "seconds": 3.8
+ },
+ {
+  "claim": "half of Americans, 47%, say they are experiencing",
+  "url": "https://pbs.org/newshour/nation/new-survey-finds-more-than-two-thirds-of-americans-believe-their-country-is-in-decline",
+  "sentence": "But the new data shows something more significant. Almost half of Americans, 47%, say they are experiencing real pain from rising prices – a sharp rise from previous years.",
+  "verdict": "DIFFERENT NUMBER",
+  "why": "A cited source discusses this but gives a different number. The number may have changed as it was copied:\n  https://www.americancommunities.org/new-survey-breaks-down-americas-complicated-landscape/",
+  "tree": {
+   "url": "https://pbs.org/newshour/nation/new-survey-finds-more-than-two-thirds-of-americans-believe-their-country-is-in-decline",
+   "found": true,
+   "context": "But the new data shows something more significant. Almost half of Americans, 47%, say they are experiencing real pain from rising prices – a sharp rise from previous years.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.americancommunities.org/2026-survey-shows-deepening-economic-pain-and-concern-for-americas-future/",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group",
+     "status": "off-topic",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.americancommunities.org/new-survey-breaks-down-americas-complicated-landscape/",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: There is more agreement that “Experts in this country don’t understand the lives of people like me.” Indeed, 59% of Americans agree with this view.…",
+     "status": "different",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.americancommunities.org/understanding-america-in-2024-hopes-fears-and-the-connections-that-shape-community-perceptions/",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group; checked its full report or a free copy instead",
+     "status": "off-topic",
+     "children": [
+      {
+       "url": "https://www.americancommunities.org/wp-content/uploads/2024/10/ACP-2024-Survey-Findings-Presentation-Oct-4-2024.pdf",
+       "found": false,
+       "context": "",
+       "note": "the number appears, but not about the claim's topic or group",
+       "status": "off-topic",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://www.americancommunities.org/wp-content/uploads/2024/10/ACP-Methodology-Statement-Oct-2024.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://apnews.com/article/poll-crime-big-cities-rural-america-trump-inflation-f409298f9283cd6606267b204d9b920c",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://www.americancommunities.org/intro-to-american-communities-project/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-10-29"
+  },
+  "seconds": 15.4
+ },
+ {
+  "claim": "27% answered yes. In 2025, 30% said yes",
+  "url": "https://pbs.org/newshour/nation/new-survey-finds-more-than-two-thirds-of-americans-believe-their-country-is-in-decline",
+  "sentence": "In 2023, 2025 and 2026, we asked respondents whether they were experiencing \"serious financial problems\" due to price increases. In July 2023, 27% answered yes. In 2025, 30% said yes. In 2026, 47% said yes. This significant swing underscores that many Americans across the country are really hurt",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://www.americancommunities.org/wp-content/uploads/2024/10/ACP-Methodology-Statement-Oct-2024.pdf\n  https://apnews.com/article/poll-crime-big-cities-rural-america-trump-inflation-f409298f9283cd6606267b204d9b920c\n  https://www.americancommunities.org/intro-to-american-communities-project/\n  https://www.pbs.org/newshour/politics/poll-likely-voters-favor-democrats-as-trump-disapproval-drives-early-turnout\n  https://www.americancommunities.org/new-survey-breaks-down-americas-complicated-landscape/\n  https://www.americancommunities.org/understanding-america-in-2024-hopes-fears-and-the-connections-that-shape-community-perceptions/\n  https://www.americancommunities.org/wp-content/uploads/2024/10/ACP-2024-Survey-Findings-Presentation-Oct-4-2024.pdf",
+  "tree": {
+   "url": "https://pbs.org/newshour/nation/new-survey-finds-more-than-two-thirds-of-americans-believe-their-country-is-in-decline",
+   "found": true,
+   "context": "…respondents whether they were experiencing \"serious financial problems\" due to price increases. In July 2023, 27% answered yes. In 2025, 30% said yes. In 2026, 47% said yes. This significant swing underscores that many A…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.americancommunities.org/new-survey-breaks-down-americas-complicated-landscape/",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group",
+     "status": "off-topic",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.americancommunities.org/understanding-america-in-2024-hopes-fears-and-the-connections-that-shape-community-perceptions/",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group; checked its full report or a free copy instead",
+     "status": "off-topic",
+     "children": [
+      {
+       "url": "https://www.americancommunities.org/wp-content/uploads/2024/10/ACP-2024-Survey-Findings-Presentation-Oct-4-2024.pdf",
+       "found": false,
+       "context": "",
+       "note": "the number appears, but not about the claim's topic or group",
+       "status": "off-topic",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://www.americancommunities.org/wp-content/uploads/2024/10/ACP-Methodology-Statement-Oct-2024.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://apnews.com/article/poll-crime-big-cities-rural-america-trump-inflation-f409298f9283cd6606267b204d9b920c",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://www.americancommunities.org/intro-to-american-communities-project/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.pbs.org/newshour/politics/poll-likely-voters-favor-democrats-as-trump-disapproval-drives-early-turnout",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-10-29"
+  },
+  "seconds": 15.2
+ },
+ {
+  "claim": "61% said they are dealing with serious financial",
+  "url": "https://pbs.org/newshour/nation/new-survey-finds-more-than-two-thirds-of-americans-believe-their-country-is-in-decline",
+  "sentence": "For some groups, concern about costs reached well above 50%. For those ages 18-29 – members of Gen Z – 61% said they are dealing with serious financial problems because of price increases, the highest percentage among the four generational cohorts, includi",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://www.americancommunities.org/intro-to-american-communities-project/",
+  "tree": {
+   "url": "https://pbs.org/newshour/nation/new-survey-finds-more-than-two-thirds-of-americans-believe-their-country-is-in-decline",
+   "found": true,
+   "context": "For some groups, concern about costs reached well above 50%. For those ages 18-29 – members of Gen Z – 61% said they are dealing with serious financial problems because of price increases, the highest percentage among th…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.americancommunities.org/intro-to-american-communities-project/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-10-29"
+  },
+  "seconds": 1.8
+ },
+ {
+  "claim": "76% exercising at least once per week-9 points",
+  "url": "https://www.globalwellnesssummit.com/?p=65199",
+  "sentence": "American employees are some of the most physically active in the world, with 76% exercising at least once per week-9 points above the global average-yet 66% say their work routines increase sedentary behavior. Long hours seated at",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://us.egym-wellpass.com/en-us/node/7056?utm_source=fitt-insider&utm_medium=partner&utm_campaign=future-fit-report&utm_content=partner-content  (publication date unknown)",
+  "tree": {
+   "url": "https://www.globalwellnesssummit.com/?p=65199",
+   "found": true,
+   "context": "American employees are some of the most physically active in the world, with 76% exercising at least once per week-9 points above the global average-yet 66% say their work routines increase sedentary behavior. Long hours…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://us.egym-wellpass.com/en-us/node/7056?utm_source=fitt-insider&utm_medium=partner&utm_campaign=future-fit-report&utm_content=partner-content",
+     "found": true,
+     "context": "American employees are some of the most physically active in the world, with 76% exercising at least once per week—9 points above the global average—yet 66% say their work routines increase sedentary behavior. Long hours…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "",
+     "copy": false
+    },
+    {
+     "url": "https://www.globalwellnesssummit.com/blog/aging-can-be-reversed-government-invests-47-5-billion-won-to-develop-biological-age-reversal-technology/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.globalwellnesssummit.com/blog/longevitix-launches-ai-platform-to-tackle-longevity-data-overload/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-06-10"
+  },
+  "seconds": 1.5
+ },
+ {
+  "claim": "half of U.S. workers report experiencing burnout",
+  "url": "https://www.webmdhealthservices.com/?p=12697",
+  "sentence": "1. More than half of U.S. workers report experiencing burnout.",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://leanin.org/report/women-in-the-workplace/  (published 2026-04-22)",
+  "tree": {
+   "url": "https://www.webmdhealthservices.com/?p=12697",
+   "found": true,
+   "context": "1. More than half of U.S. workers report experiencing burnout.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://leanin.org/report/women-in-the-workplace/",
+     "found": true,
+     "context": "…ut is higher than ever.11 Six in 10 senior-level women report frequently feeling burned out, compared to only half of men at their level and about 4 in 10 employees overall. Senior-level women are also more likely than o…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "2026-04-22",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-09-29"
+  },
+  "seconds": 1.5
+ },
+ {
+  "claim": "55% of the U.S. workforce is experiencing burnout",
+  "url": "https://www.webmdhealthservices.com/?p=12697",
+  "sentence": "Eagle Hill Consulting’s Workforce Burnout Survey 2025, fielded by Ipsos in November 2025 with more than 1,400 U.S. employees, reported that 55% of the U.S. workforce is experiencing burnout. That is most of your workforce. For 2026 planning, treat it as a direct threat to efficiency, innovati",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.eaglehillconsulting.com/news/workforce-burnout-survey-2025/  (published 2025-11-24)\n  https://newsroom.aflac.com/2025-10-09-American-workforce-burnout-reaches-6-year-high  (publication date unknown)",
+  "tree": {
+   "url": "https://www.webmdhealthservices.com/?p=12697",
+   "found": true,
+   "context": "…rce Burnout Survey 2025, fielded by Ipsos in November 2025 with more than 1,400 U.S. employees, reported that 55% of the U.S. workforce is experiencing burnout. That is most of your workforce. For 2026 planning, treat it…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.eaglehillconsulting.com/news/workforce-burnout-survey-2025/",
+     "found": true,
+     "context": "Arlington, Va., November 24, 2025 — More than half of the U.S. workforce (55%) is experiencing burnout, according to new research from Eagle Hill Consulting. The findings show that burnout is a threat to organizational p…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://www.eaglehillconsulting.com/insights/worker-burnout/",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      }
+     ],
+     "archived": false,
+     "date": "2025-11-24",
+     "copy": false
+    },
+    {
+     "url": "https://newsroom.aflac.com/2025-10-09-American-workforce-burnout-reaches-6-year-high",
+     "found": true,
+     "context": "…who feel they belong experience far less workplace stress (30%, compared to 56%) and lower levels of burnout (55%, compared to 78%), compared to employees who don't feel they belong. They also report much higher overall…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://edge.prnewswire.com/c/link/?t=0&l=en&o=4528521-1&h=4154414655&u=https%3A%2F%2Fwww.aflac.com%2Fbusiness%2Fresources%2Faflac-workforces-report%2Fdefault.aspx&a=Aflac.com%2FAWR",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text; checked its full report or a free copy instead",
+       "status": "missing",
+       "children": [
+        {
+         "url": "https://new.aflac.com/-/media/aflaccom/files/aflac-workforces-report/2026-2027/2026-aflac-awr-benefits-balancing-act.ashx?rev=fa8d4c58467c4dc8bbc01b3b0c7cc6df",
+         "found": false,
+         "context": "",
+         "note": "the number appears, but not about the claim's topic or group",
+         "status": "off-topic",
+         "children": [],
+         "archived": false,
+         "copy": true
+        },
+        {
+         "url": "https://new.aflac.com/-/media/aflaccom/files/aflac-workforces-report/2026-2027/2026-aflac-awr-competing-for-talent-in-a-changing-workforce.ashx?rev=1042b49605dc41859faf120cc6aea6cd",
+         "found": false,
+         "context": "",
+         "note": "DIFFERENT NUMBER here: In fact, among employees experiencing burnout, 83% reported having at least moderate burnout levels at work.…",
+         "status": "different",
+         "children": [],
+         "archived": false,
+         "copy": true
+        }
+       ],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://edge.prnewswire.com/c/link/?t=0&l=en&o=4528521-1&h=2454916435&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4498617-1%26h%3D4238367046%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4458296-1%2526h%253D321581933%2526u%253Dhttps%25253A%25252F%25252Fwww.aflac.com%25252F%2526a%253Daflac.com%26a%3Daflac.com&a=aflac.com",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://edge.prnewswire.com/c/link/?t=0&l=en&o=4528521-1&h=2057341462&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4498617-1%26h%3D258319317%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4458296-1%2526h%253D2935429484%2526u%253Dhttp%25253A%25252F%25252Fwww.aflac.com%25252Fespanol%2526a%253Daflac.com%25252Fespa%2525C3%2525B1ol%26a%3Daflac.com%252Fespa%25C3%25B1ol&a=aflac.com%2Fespa%C3%B1ol",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://edge.prnewswire.com/c/link/?t=0&l=en&o=4528521-1&h=3451870568&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4498617-1%26h%3D2216698848%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4458296-1%2526h%253D1297404968%2526u%253Dhttps%25253A%25252F%25252Finvestors.aflac.com%25252F%2526a%253Dinvestors.aflac.com%26a%3Dinvestors.aflac.com&a=investors.aflac.com",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      }
+     ],
+     "archived": false,
+     "date": "",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-09-29"
+  },
+  "seconds": 9.4
+ },
+ {
+  "claim": "40% of employees globally experienced a lot of",
+  "url": "https://www.webmdhealthservices.com/?p=12697",
+  "sentence": "2. 40% of employees globally experienced a lot of stress the previous day.",
+  "verdict": "CHECK PDF",
+  "why": "The trail ends at PDF(s) SourceTrace couldn't read; search them for the number:\n  https://www.gallup.com/file/workplace/707798/state-of-the-global-workplace-2026-download.pdf",
+  "tree": {
+   "url": "https://www.webmdhealthservices.com/?p=12697",
+   "found": true,
+   "context": "2. 40% of employees globally experienced a lot of stress the previous day.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://www.gallup.com/file/workplace/349484/state-of-the-global-workplace-2024-download.pdf",
+       "found": false,
+       "context": "",
+       "note": "DIFFERENT NUMBER here: In this year’s State of the Global Workplace report, 41% of employees report experiencing “a lot of stress.” Yet stress varies significantly depending on how organizations are run.…",
+       "status": "different",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://www.gallup.com/file/workplace/707798/state-of-the-global-workplace-2026-download.pdf",
+       "found": false,
+       "context": "",
+       "note": "PDF: open it and search for the number by hand; couldn't read it (Command ['pdftotext', '-q', '/var/folders/kn/cghqdpjd269159wzxpmvy6kh0000gp/T/tmp1dcgengi.pdf', '-'] returned non-zero exit status 99.)",
+       "status": "pdf",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.springhealth.com/guides/2026-workplace-mental-health-annual-report",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.webmdhealthservices.com/blog/employee-burnout-signs/",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: A recent burnout study conducted by WebMD’s Center for Research found that one-third of employees experience persistent burnout and employee perceptions of burnout increased over 25% from 2022 to 2024.2 Burnout develops over time due to chr…",
+     "status": "different",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-09-29"
+  },
+  "seconds": 14.6
+ },
+ {
+  "claim": "1 in 10 individual contributors is highly engaged",
+  "url": "https://www.webmdhealthservices.com/?p=12697",
+  "sentence": "3. Only 1 in 10 individual contributors is highly engaged at work.",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.webmdhealthservices.com/wp-content/uploads/2026/06/WebMD-Health-Services-2026-Workplace-and-Employee-Survey-Report.pdf  (published 2026-06-16)",
+  "tree": {
+   "url": "https://www.webmdhealthservices.com/?p=12697",
+   "found": true,
+   "context": "3. Only 1 in 10 individual contributors is highly engaged at work.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.webmdhealthservices.com/wp-content/uploads/2026/06/WebMD-Health-Services-2026-Workplace-and-Employee-Survey-Report.pdf",
+     "found": true,
+     "context": "…yee Engagement When engagement data is examined by role, a stark disparity emerges across the workforce. Only 1 in 10 individual contributors report being highly engaged at work—that’s 3 times lower than the engagement l…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "2026-06-16",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-09-29"
+  },
+  "seconds": 3.2
+ },
+ {
+  "claim": "92% of employees say it is important to",
+  "url": "https://www.yomly.com/workplace-mental-health-statistics/",
+  "sentence": "Nearly 92% of employees say it is important to work for a company that values emotional and psychological wellbeing.",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://www.mentalhealth.org.uk/explore-mental-health/mental-health-statistics/mental-health-work-statistics",
+  "tree": {
+   "url": "https://www.yomly.com/workplace-mental-health-statistics/",
+   "found": true,
+   "context": "Nearly 92% of employees say it is important to work for a company that values emotional and psychological wellbeing.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.mentalhealth.org.uk/explore-mental-health/mental-health-statistics/mental-health-work-statistics",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2025-10-29"
+  },
+  "seconds": 2.1
+ },
+ {
+  "claim": "95% of employees say being respected at work",
+  "url": "https://www.yomly.com/workplace-mental-health-statistics/",
+  "sentence": "About 95% of employees say being respected at work is essential for their mental health and job satisfaction.",
+  "verdict": "DIFFERENT NUMBER",
+  "why": "A cited source discusses this but gives a different number. The number may have changed as it was copied:\n  https://mhfaengland.org/mhfa-centre/blog/10-workplace-mental-health-statistics-2022/",
+  "tree": {
+   "url": "https://www.yomly.com/workplace-mental-health-statistics/",
+   "found": true,
+   "context": "Around 95% of employees say it is important to work for organizations that respect work-life boundaries, showing that balance is now a top priority for job satisfaction.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.mentalhealth.org.uk/explore-mental-health/mental-health-statistics/mental-health-work-statistics",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://mhfaengland.org/mhfa-centre/blog/10-workplace-mental-health-statistics-2022/",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: 2. 50% of employees have experienced at least one characteristic of burn out due to greater job demands and expectations, lack of social interaction and lack of boundaries between work and home life.…",
+     "status": "different",
+     "children": [],
+     "archived": true,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2025-10-29"
+  },
+  "seconds": 30.0
+ },
+ {
+  "claim": "84% of employees faced mental health challenges, 63%",
+  "url": "https://www.yomly.com/workplace-mental-health-statistics/",
+  "sentence": "In 2025, about 84% of employees faced mental health challenges, 63% showed signs of burnout, and poor mental health cost UK employers £56 billion annually, showing a sh",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://www.forbes.com/sites/tracybrower/2023/01/29/managers-have-major-impact-on-mental-health-how-to-lead-for-wellbeing/\n  https://hbr.org/2021/10/its-a-new-era-for-mental-health-at-work",
+  "tree": {
+   "url": "https://www.yomly.com/workplace-mental-health-statistics/",
+   "found": true,
+   "context": "84% of employees faced at least one mental health challenge in the past year, including stress, burnout, or low motivation.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://hbr.org/2021/10/its-a-new-era-for-mental-health-at-work",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group",
+     "status": "off-topic",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.forbes.com/sites/tracybrower/2023/01/29/managers-have-major-impact-on-mental-health-how-to-lead-for-wellbeing/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://www.forbes.com/sites/bryanrobinson/2024/05/21/74-of-employees-report-negative-mental-health-at-work/",
+     "found": false,
+     "context": "",
+     "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+     "status": "unreachable",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2025-10-29"
+  },
+  "seconds": 6.8
+ },
+ {
+  "claim": "13% more productive, while untreated stress and burnout",
+  "url": "https://www.yomly.com/workplace-mental-health-statistics/",
+  "sentence": "Poor mental health lowers focus, creativity, and motivation. Studies show happy employees are 13% more productive, while untreated stress and burnout cause major losses from absenteeism and presenteeism.",
+  "verdict": "UNREACHABLE",
+  "why": "None of the cited sources could be opened, live or archived:\n  https://www.forbes.com/sites/bryanrobinson/2024/05/21/74-of-employees-report-negative-mental-health-at-work/",
+  "tree": {
+   "url": "https://www.yomly.com/workplace-mental-health-statistics/",
+   "found": true,
+   "context": "Poor mental health lowers focus, creativity, and motivation. Studies show happy employees are 13% more productive, while untreated stress and burnout cause major losses from absenteeism and presenteeism.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.forbes.com/sites/bryanrobinson/2024/05/21/74-of-employees-report-negative-mental-health-at-work/",
+     "found": false,
+     "context": "",
+     "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+     "status": "unreachable",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2025-10-29"
+  },
+  "seconds": 5.7
+ },
+ {
+  "claim": "60 million people, or 23% of U.S. adults",
+  "url": "https://growtherapy.com/blog/workplace-mental-health-statistics",
+  "sentence": "In 2024, more than 60 million people, or 23% of U.S. adults, experienced any mental illness (AMI). (Mental Health America, 2025)",
+  "verdict": "DIFFERENT NUMBER",
+  "why": "A cited source discusses this but gives a different number. The number may have changed as it was copied:\n  https://mhanational.org/the-state-of-mental-health-in-america/\n  https://mhanational.org/wp-content/uploads/2026/11/2026-State-of-Mental-Health-in-America-FINAL.pdf\n  https://mhanational.org/wp-content/uploads/2026/10/2026-State-of-Mental-Health-in-America.pdf",
+  "tree": {
+   "url": "https://growtherapy.com/blog/workplace-mental-health-statistics",
+   "found": true,
+   "context": "In 2024, more than 60 million people, or 23% of U.S. adults, experienced any mental illness (AMI). (Mental Health America, 2025)…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://mhanational.org/the-state-of-mental-health-in-america/",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: Over 1 in 5 adults in the U.S. had any mental illness in the past year, equivalent to over 61 million people.…; checked its full report or a free copy instead",
+     "status": "different",
+     "children": [
+      {
+       "url": "https://mhanational.org/wp-content/uploads/2026/11/2026-State-of-Mental-Health-in-America-FINAL.pdf",
+       "found": false,
+       "context": "",
+       "note": "DIFFERENT NUMBER here: (23.40%) adults had any mental illness in 2024, equivalent to over 61 million people.…",
+       "status": "different",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://mhanational.org/wp-content/uploads/2026/10/2026-State-of-Mental-Health-in-America.pdf",
+       "found": false,
+       "context": "",
+       "note": "DIFFERENT NUMBER here: (23.40%) adults had any mental illness in 2024, equivalent to over 61 million people.…",
+       "status": "different",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 18.5
+ },
+ {
+  "claim": "25% said they had an unmet need regarding",
+  "url": "https://growtherapy.com/blog/workplace-mental-health-statistics",
+  "sentence": "Among adults with AMI, 25% said they had an unmet need regarding treatment for their mental health in 2022 and 2023. (Mental Health America, 2025)",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://mhanational.org/the-state-of-mental-health-in-america/\n  https://mhanational.org/wp-content/uploads/2026/11/2026-State-of-Mental-Health-in-America-FINAL.pdf\n  https://mhanational.org/wp-content/uploads/2026/10/2026-State-of-Mental-Health-in-America.pdf\n  https://4f8302f5-e0fd-43c2-81df-ba7ddba4a970.filesusr.com/ugd/cd0c95_a8e611723ab94599b7ef5f87d1217529.pdf\n  https://www.neebc.org/assets/pdfs/Blogs/2025%20Lyra%20Workforce%20Mental%20Health%20Trends.pdf",
+  "tree": {
+   "url": "https://growtherapy.com/blog/workplace-mental-health-statistics",
+   "found": true,
+   "context": "Among adults with AMI, 25% said they had an unmet need regarding treatment for their mental health in 2022 and 2023. (Mental Health America, 2025)…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://mhanational.org/the-state-of-mental-health-in-america/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://mhanational.org/wp-content/uploads/2026/11/2026-State-of-Mental-Health-in-America-FINAL.pdf",
+       "found": false,
+       "context": "",
+       "note": "the number appears, but not about the claim's topic or group",
+       "status": "off-topic",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://mhanational.org/wp-content/uploads/2026/10/2026-State-of-Mental-Health-in-America.pdf",
+       "found": false,
+       "context": "",
+       "note": "the number appears, but not about the claim's topic or group",
+       "status": "off-topic",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://4f8302f5-e0fd-43c2-81df-ba7ddba4a970.filesusr.com/ugd/cd0c95_a8e611723ab94599b7ef5f87d1217529.pdf",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group",
+     "status": "off-topic",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.neebc.org/assets/pdfs/Blogs/2025%20Lyra%20Workforce%20Mental%20Health%20Trends.pdf",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group",
+     "status": "off-topic",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 21.1
+ },
+ {
+  "claim": "half of U.S. workers. (Mind Share Partners, 2025",
+  "url": "https://growtherapy.com/blog/workplace-mental-health-statistics",
+  "sentence": "Moderate to severe burnout, depression, or anxiety affects half of U.S. workers. (Mind Share Partners, 2025)",
+  "verdict": "NOT FOUND",
+  "why": "The starting page doesn't state this number about this topic. the number appears, but not about the claim's topic or group",
+  "tree": {
+   "url": "https://growtherapy.com/blog/workplace-mental-health-statistics",
+   "found": false,
+   "context": "",
+   "note": "the number appears, but not about the claim's topic or group",
+   "status": "off-topic",
+   "children": [],
+   "archived": false
+  },
+  "seconds": 0.5
+ },
+ {
+  "claim": "76%) of U.S. workers reported experiencing some level",
+  "url": "https://growtherapy.com/blog/workplace-mental-health-statistics",
+  "sentence": "More than three-quarters (76%) of U.S. workers reported experiencing some level of burnout, with 53% experiencing moderate to severe levels. (Mind Share Partners, 2025)",
+  "verdict": "DIFFERENT NUMBER",
+  "why": "A cited source discusses this but gives a different number. The number may have changed as it was copied:\n  https://4f8302f5-e0fd-43c2-81df-ba7ddba4a970.filesusr.com/ugd/cd0c95_a8e611723ab94599b7ef5f87d1217529.pdf",
+  "tree": {
+   "url": "https://growtherapy.com/blog/workplace-mental-health-statistics",
+   "found": true,
+   "context": "More than three-quarters (76%) of U.S. workers reported experiencing some level of burnout, with 53% experiencing moderate to severe levels. (Mind Share Partners, 2025)…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://mhanational.org/the-state-of-mental-health-in-america/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://mhanational.org/wp-content/uploads/2026/11/2026-State-of-Mental-Health-in-America-FINAL.pdf",
+       "found": false,
+       "context": "",
+       "note": "the number appears, but not about the claim's topic or group",
+       "status": "off-topic",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://mhanational.org/wp-content/uploads/2026/10/2026-State-of-Mental-Health-in-America.pdf",
+       "found": false,
+       "context": "",
+       "note": "the number appears, but not about the claim's topic or group",
+       "status": "off-topic",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://4f8302f5-e0fd-43c2-81df-ba7ddba4a970.filesusr.com/ugd/cd0c95_a8e611723ab94599b7ef5f87d1217529.pdf",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: Key Findings Half of U.S. workers report moderate to severe levels of burnout, depression, or anxiety. • Additionally, 90% reported at least minor levels of one mental health challenge. • People cited top stressors as U.S. politics (43%), g…",
+     "status": "different",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.neebc.org/assets/pdfs/Blogs/2025%20Lyra%20Workforce%20Mental%20Health%20Trends.pdf",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 26.2
+ },
+ {
+  "claim": "2.5 million cases of nonfatal workplace injuries and",
+  "url": "https://protex.ai/guides/health-and-safety-stats",
+  "sentence": "Private industry employers in the US reported 2.5 million cases of nonfatal workplace injuries and illnesses in 2024.",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.bls.gov/news.release/archives/osh_01222026.pdf  (published 2026-01-20)",
+  "tree": {
+   "url": "https://protex.ai/guides/health-and-safety-stats",
+   "found": true,
+   "context": "Private industry employers in the US reported 2.5 million cases of nonfatal workplace injuries and illnesses in 2024.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.bls.gov/news.release/archives/osh_01222026.pdf",
+     "found": true,
+     "context": "EMPLOYER-REPORTED WORKPLACE INJURIES AND ILLNESSES – 2023-2024 Private industry employers reported 2.5 million nonfatal workplace injuries and illnesses in 2024, down 3.1 percent from 2023, the U.S. Bureau of Labor Stati…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": true,
+     "date": "2026-01-20",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 19.4
+ },
+ {
+  "claim": "3.1% decrease in workplace injuries and illnesses reported",
+  "url": "https://protex.ai/guides/health-and-safety-stats",
+  "sentence": "This shows a 3.1% decrease in workplace injuries and illnesses reported by employers compared to data in 2023.",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.bls.gov/news.release/archives/osh_01222026.pdf  (published 2026-01-20)",
+  "tree": {
+   "url": "https://protex.ai/guides/health-and-safety-stats",
+   "found": true,
+   "context": "This shows a 3.1% decrease in workplace injuries and illnesses reported by employers compared to data in 2023.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.bls.gov/news.release/archives/osh_01222026.pdf",
+     "found": true,
+     "context": "…-2024 Private industry employers reported 2.5 million nonfatal workplace injuries and illnesses in 2024, down 3.1 percent from 2023, the U.S. Bureau of Labor Statistics reported today. This is the lowest number of employ…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": true,
+     "date": "2026-01-20",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 15.6
+ },
+ {
+  "claim": "1.8 million cases involved days away from work",
+  "url": "https://protex.ai/guides/health-and-safety-stats",
+  "sentence": "Over the 2023–2024 period, 1.8 million cases involved days away from work (DAFW).",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.bls.gov/news.release/archives/osh_01222026.pdf  (published 2026-01-20)",
+  "tree": {
+   "url": "https://protex.ai/guides/health-and-safety-stats",
+   "found": true,
+   "context": "Over the 2023–2024 period, 1.8 million cases involved days away from work (DAFW).…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.bls.gov/news.release/archives/osh_01222026.pdf",
+     "found": true,
+     "context": "Biennial Case Characteristics and Worker Demographics, 2023-2024 Over the 2-year 2023-2024 period, there were 1.8 million cases involving days away from work (DAFW) in private industry, representing 61.5 percent of the t…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": true,
+     "date": "2026-01-20",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 16.2
+ },
+ {
+  "claim": "10,000 full-time workers in 2023 to 5.1 in",
+  "url": "https://protex.ai/guides/health-and-safety-stats",
+  "sentence": "The incidence rate of respiratory illnesses fell from 9.5 cases per 10,000 full-time workers in 2023 to 5.1 in 2024.",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://www.bls.gov/charts/injuries-and-illnesses/total-nonfatal-work-injuries-and-illnesses-by-year.htm",
+  "tree": {
+   "url": "https://protex.ai/guides/health-and-safety-stats",
+   "found": true,
+   "context": "The incidence rate of respiratory illnesses fell from 9.5 cases per 10,000 full-time workers in 2023 to 5.1 in 2024.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.bls.gov/charts/injuries-and-illnesses/total-nonfatal-work-injuries-and-illnesses-by-year.htm",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 19.1
+ },
+ {
+  "claim": "12 billion working days every year. The statistics",
+  "url": "https://www.worktime.com/blog/statistics/mental-health-in-the-workplace-statistics-every-hr-leader-needs",
+  "sentence": "How can employers detect mental health strain before it becomes a leave of absence? Depression and anxiety alone wipe out 12 billion working days every year. The statistics below cover how widespread the problem is, what it costs, and what actually works to fix it.",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work  (published 2026-09-15)",
+  "tree": {
+   "url": "https://www.worktime.com/blog/statistics/mental-health-in-the-workplace-statistics-every-hr-leader-needs",
+   "found": true,
+   "context": "…oyers detect mental health strain before it becomes a leave of absence? Depression and anxiety alone wipe out 12 billion working days every year. The statistics below cover how widespread the problem is, what it costs, a…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.hhs.gov/surgeongeneral/reports-and-publications/workplace-well-being/index.html",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://www.hhs.gov/sites/default/files/workplace-mental-health-well-being.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": true,
+       "copy": true
+      },
+      {
+       "url": "https://www.hhs.gov/sites/default/files/five-essentials-workplace-mental-health-well-being.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": true,
+       "copy": true
+      }
+     ],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work",
+     "found": true,
+     "context": "Globally, an estimated 12 billion working days are lost every year to depression and anxiety at a cost of US$ 1 trillion per year in lost productivity.…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "2026-09-15",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-06-03"
+  },
+  "seconds": 66.0
+ },
+ {
+  "claim": "84% of respondents said their workplace conditions contributed",
+  "url": "https://www.worktime.com/blog/statistics/mental-health-in-the-workplace-statistics-every-hr-leader-needs",
+  "sentence": "a large majority of the workforce. Here is what the prevalence data shows. 1. According to the Mind Share Partners 2021 Mental Health at Work Report, 84% of respondents said their workplace conditions contributed to at least one mental health challenge. That figure, cited in the U.S. Surgeon General’s ",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://mindshare.box.com/shared/static/dl36pf2ii3f6zlmoccyk5pd3ebxffgo9.pdf  (published 2022-02-24)",
+  "tree": {
+   "url": "https://www.worktime.com/blog/statistics/mental-health-in-the-workplace-statistics-every-hr-leader-needs",
+   "found": true,
+   "context": "84% of respondents said their workplace conditions contributed to at least one mental health challenge (Mind Share Partners).…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.hhs.gov/surgeongeneral/reports-and-publications/workplace-well-being/index.html",
+     "found": true,
+     "context": "84% of respondents said their workplace conditions had contributed to at least one mental health challenge.Source: MindShare Partners’ 2021 Mental Health at Work Report…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://www.mindsharepartners.org/mentalhealthatworkreport-2021",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text; checked its full report or a free copy instead",
+       "status": "missing",
+       "children": [
+        {
+         "url": "https://mindshare.box.com/shared/static/dl36pf2ii3f6zlmoccyk5pd3ebxffgo9.pdf",
+         "found": true,
+         "context": "…, we introduced a new measure to our 2021 study that measured the role of workplace factors on mental health. 84% of respondents reported at least one workplace factor that negatively impacted their mental health in the…",
+         "note": "",
+         "status": "found",
+         "children": [],
+         "archived": false,
+         "date": "2022-02-24",
+         "copy": true
+        }
+       ],
+       "archived": false,
+       "copy": false
+      }
+     ],
+     "archived": true,
+     "date": "2024-05-24",
+     "copy": false
+    },
+    {
+     "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.springhealth.com/blog/top-mental-health-at-work-statistics",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://www.springhealth.com/2026-workplace-mental-health-annual-report",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-06-03"
+  },
+  "seconds": 25.6
+ },
+ {
+  "claim": "1 in 6 workers (14.7%) are managing a",
+  "url": "https://www.worktime.com/blog/statistics/mental-health-in-the-workplace-statistics-every-hr-leader-needs",
+  "sentence": "2. Around 1 in 6 workers (14.7%) are managing a mental health condition while at work at any given time, according to the World Health Organization. Many more are man",
+  "verdict": "DIFFERENT NUMBER",
+  "why": "A cited source discusses this but gives a different number. The number may have changed as it was copied:\n  https://www.apa.org/pubs/reports/work-in-america/2025",
+  "tree": {
+   "url": "https://www.worktime.com/blog/statistics/mental-health-in-the-workplace-statistics-every-hr-leader-needs",
+   "found": true,
+   "context": "2. Around 1 in 6 workers (14.7%) are managing a mental health condition while at work at any given time, according to the World Health Organization. Many more are managing a mental health condition without a formal diagn…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.hhs.gov/surgeongeneral/reports-and-publications/workplace-well-being/index.html",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://www.hhs.gov/sites/default/files/workplace-mental-health-well-being.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": true,
+       "copy": true
+      },
+      {
+       "url": "https://www.hhs.gov/sites/default/files/five-essentials-workplace-mental-health-well-being.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": true,
+       "copy": true
+      }
+     ],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.springhealth.com/blog/top-mental-health-at-work-statistics",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group; checked its full report or a free copy instead",
+     "status": "off-topic",
+     "children": [
+      {
+       "url": "https://www.springhealth.com/2026-workplace-mental-health-annual-report",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.apa.org/pubs/reports/work-in-america/2025",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: Additionally, workers who were satisfied with their relationship with their manager were less likely to describe their work experience as toxic (10% vs. 55% of workers unsatisfied with their relationship).…",
+     "status": "different",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://www.shrm.org/topics-tools/news/benefits-compensation/what-to-know-about-the-state-of-workplace-mental-health",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-06-03"
+  },
+  "seconds": 72.0
+ },
+ {
+  "claim": "1 trillion per year in lost output. The",
+  "url": "https://www.worktime.com/blog/statistics/mental-health-in-the-workplace-statistics-every-hr-leader-needs",
+  "sentence": "rk is substantial, and most of it is invisible until it shows up in turnover reports. 7. Depression and anxiety cost the global economy an estimated $1 trillion per year in lost output. The World Health Organization attributes this primarily to presenteeism, which is harder to address than absenteeism because",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work  (published 2026-09-15)",
+  "tree": {
+   "url": "https://www.worktime.com/blog/statistics/mental-health-in-the-workplace-statistics-every-hr-leader-needs",
+   "found": true,
+   "context": "…isible until it shows up in turnover reports. 7. Depression and anxiety cost the global economy an estimated $1 trillion per year in lost output. The World Health Organization attributes this primarily to presenteeism, w…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work",
+     "found": true,
+     "context": "Globally, an estimated 12 billion working days are lost every year to depression and anxiety at a cost of US$ 1 trillion per year in lost productivity.…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "2026-09-15",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-06-03"
+  },
+  "seconds": 0.7
+ },
+ {
+  "claim": "77% of US workers reported a work-related stress",
+  "url": "https://www.worktime.com/blog/statistics/workplace-stress-statistics-causes-costs-impact",
+  "sentence": "How does workplace stress affect productivity? Workplace stress is close to universal. 77% of US workers reported a work-related stress symptom in the past month, and 41% of employees worldwide felt significant stress the day before they we",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.apa.org/pubs/reports/work-in-america/2023-workplace-health-well-being  (publication date unknown)",
+  "tree": {
+   "url": "https://www.worktime.com/blog/statistics/workplace-stress-statistics-causes-costs-impact",
+   "found": true,
+   "context": "77% of US workers reported work-related stress in the past month, and 41% worldwide felt significant stress the prior day.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.apa.org/pubs/reports/work-in-america/2023-workplace-health-well-being",
+     "found": true,
+     "context": "Fortunately, the majority (77%) of workers reported being very (36%) or somewhat (41%) satisfied with the support for mental health and well-being they receive from their employers, and more than half (59%) strongly (22%…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://www.apa.org/topics/healthy-workplaces/workplace-burnout",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": true,
+       "copy": false
+      }
+     ],
+     "archived": true,
+     "date": "",
+     "copy": false
+    },
+    {
+     "url": "https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://www.gallup.com/file/workplace/349484/state-of-the-global-workplace-2024-download.pdf",
+       "found": false,
+       "context": "",
+       "note": "the number appears, but not about the claim's topic or group",
+       "status": "off-topic",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://www.gallup.com/file/workplace/707798/state-of-the-global-workplace-2026-download.pdf",
+       "found": false,
+       "context": "",
+       "note": "PDF: open it and search for the number by hand; couldn't read it (Command ['pdftotext', '-q', '/var/folders/kn/cghqdpjd269159wzxpmvy6kh0000gp/T/tmpvvo5eh_n.pdf', '-'] returned non-zero exit status 99.)",
+       "status": "pdf",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.osha.gov/workplace-stress",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: 76% of workers reported experiencing at least one symptom of a mental health condition in the past year and 84% of employees say workplace conditions adversely impacted their mental wellbeing5.…",
+     "status": "different",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-07-08"
+  },
+  "seconds": 29.8
+ },
+ {
+  "claim": "65% and 83% report work-related stress depending on",
+  "url": "https://www.worktime.com/blog/statistics/workplace-stress-statistics-causes-costs-impact",
+  "sentence": "How common is workplace stress? Most US workers experience workplace stress. Between 65% and 83% report work-related stress depending on how the question is framed, and 77% reported a stress symptom in the past month. 1. Notably, 77% of U",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.apa.org/pubs/reports/work-in-america/2023-workplace-health-well-being  (publication date unknown)",
+  "tree": {
+   "url": "https://www.worktime.com/blog/statistics/workplace-stress-statistics-causes-costs-impact",
+   "found": true,
+   "context": "How common is workplace stress? Most US workers experience workplace stress. Between 65% and 83% report work-related stress depending on how the question is framed, and 77% reported a stress symptom in the past month. 1.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.apa.org/pubs/reports/work-in-america/2023-workplace-health-well-being",
+     "found": true,
+     "context": "…to report satisfaction with growth and development opportunities (76%) than those in nonprofit organizations (65%). Those who reported working for an organization with equity, diversity, and inclusion policies were more…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://www.apa.org/pubs/reports/work-in-america/2023-infographics/stress-growth-development-infographic",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": true,
+       "copy": false
+      }
+     ],
+     "archived": true,
+     "date": "",
+     "copy": false
+    },
+    {
+     "url": "https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group; checked its full report or a free copy instead",
+     "status": "off-topic",
+     "children": [
+      {
+       "url": "https://www.gallup.com/file/workplace/349484/state-of-the-global-workplace-2024-download.pdf",
+       "found": false,
+       "context": "",
+       "note": "DIFFERENT NUMBER here: In this year’s State of the Global Workplace report, 41% of employees report experiencing “a lot of stress.” Yet stress varies significantly depending on how organizations are run.…",
+       "status": "different",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://www.gallup.com/file/workplace/707798/state-of-the-global-workplace-2026-download.pdf",
+       "found": false,
+       "context": "",
+       "note": "PDF: open it and search for the number by hand; couldn't read it (Command ['pdftotext', '-q', '/var/folders/kn/cghqdpjd269159wzxpmvy6kh0000gp/T/tmpgytaevz_.pdf', '-'] returned non-zero exit status 99.)",
+       "status": "pdf",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.osha.gov/workplace-stress",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-07-08"
+  },
+  "seconds": 37.8
+ },
+ {
+  "claim": "43% of employees say they typically feel tense",
+  "url": "https://www.worktime.com/blog/statistics/workplace-stress-statistics-causes-costs-impact",
+  "sentence": "Start free trial Book demo 5. Significantly, 43% of employees say they typically feel tense or stressed during the workday. That comes from the APA's Work in America survey. 6. Based on an SHRM anal",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.apa.org/pubs/reports/work-in-america/2024  (publication date unknown)",
+  "tree": {
+   "url": "https://www.worktime.com/blog/statistics/workplace-stress-statistics-causes-costs-impact",
+   "found": true,
+   "context": "Start free trial Book demo 5. Significantly, 43% of employees say they typically feel tense or stressed during the workday. That comes from the APA's Work in America survey. 6. Based on an SHRM analysis of workplace ment…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.apa.org/pubs/reports/work-in-america/2024",
+     "found": true,
+     "context": "Around two in five (43%) say that during their workday, they typically feel tense or stressed out. That number rises to more than three in five (61%) among workers who experience lower psychological safety at work.…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": true,
+     "date": "",
+     "copy": false
+    },
+    {
+     "url": "https://www.shrm.org/topics-tools/news/benefits-compensation/what-to-know-about-the-state-of-workplace-mental-health",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: On the flip side, 54% of employees said their job made them feel fulfilled, compared with 40% in 2024.…",
+     "status": "different",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.stress.org/workplace-stress/",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: According to research from Indeed, 52% of employees feel burnout, and it’s never been more important to understand how it can impact our lives.…",
+     "status": "different",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.cdc.gov/niosh/docs/99-101/default.html",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://adaa.org/workplace-stress-anxiety-disorders-survey",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group; checked its full report or a free copy instead",
+     "status": "off-topic",
+     "children": [
+      {
+       "url": "https://adaa.org/sites/default/files/ADAA%202025%20Impact%20Report.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": true,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-07-08"
+  },
+  "seconds": 65.4
+ },
+ {
+  "claim": "55%), interpersonal relationships (53%), staff management duties (50%",
+  "url": "https://www.worktime.com/blog/statistics/workplace-stress-statistics-causes-costs-impact",
+  "sentence": "ed by management problems, low pay, and a sharp recent rise in job insecurity. The leading causes are consistent across major surveys. 11. Deadlines (55%), interpersonal relationships (53%), staff management duties (50%), and unexpected problems (49%) are the top reported causes of workplace stress, ac",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://adaa.org/workplace-stress-anxiety-disorders-survey  (publication date unknown)",
+  "tree": {
+   "url": "https://www.worktime.com/blog/statistics/workplace-stress-statistics-causes-costs-impact",
+   "found": true,
+   "context": "…a sharp recent rise in job insecurity. The leading causes are consistent across major surveys. 11. Deadlines (55%), interpersonal relationships (53%), staff management duties (50%), and unexpected problems (49%) are the…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://adaa.org/workplace-stress-anxiety-disorders-survey",
+     "found": true,
+     "context": "deadlines (55 percent)…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": true,
+     "date": "",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2026-07-08"
+  },
+  "seconds": 24.2
+ },
+ {
+  "claim": "40.1 million working days lost (2024/25), and stress-related",
+  "url": "https://meditopia.com/en/forwork/articles/workplace-stress-statistics",
+  "sentence": "Work-related ill health and injuries led to 40.1 million working days lost (2024/25), and stress-related conditions are a major contributor.",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.hse.gov.uk/statistics/overview.htm  (publication date unknown)",
+  "tree": {
+   "url": "https://meditopia.com/en/forwork/articles/workplace-stress-statistics",
+   "found": true,
+   "context": "Work-related ill health and injuries led to 40.1 million working days lost (2024/25), and stress-related conditions are a major contributor.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.hse.gov.uk/statistics/overview.htm",
+     "found": true,
+     "context": "40.1 million working days lost due to work-related illness and workplace injury…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 1.1
+ },
+ {
+  "claim": "22.1 million (Great Britain, 2024/25",
+  "url": "https://meditopia.com/en/forwork/articles/workplace-stress-statistics",
+  "sentence": "Working days lost due to stress, depression or anxiety were reported at 22.1 million (Great Britain, 2024/25).",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.hse.gov.uk/statistics/assets/docs/hssh2425.pdf  (published 2025-11-18)",
+  "tree": {
+   "url": "https://meditopia.com/en/forwork/articles/workplace-stress-statistics",
+   "found": true,
+   "context": "Working days lost due to stress, depression or anxiety were reported at 22.1 million (Great Britain, 2024/25).…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.hse.gov.uk/statistics/overview.htm",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://www.hse.gov.uk/statistics/assets/docs/hssh2425.pdf",
+       "found": true,
+       "context": "22.1 million Working days lost due to work-related stress, depression or anxiety in 2024/25…",
+       "note": "",
+       "status": "found",
+       "children": [],
+       "archived": false,
+       "date": "2025-11-18",
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 2.4
+ },
+ {
+  "claim": "50% of European workers report stress as common",
+  "url": "https://meditopia.com/en/forwork/articles/workplace-stress-statistics",
+  "sentence": "Over 50% of European workers report stress as common in their job.",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://www.mentalhealthcommission.ca/wp-content/uploads/drupal/2019-03/C4HC%20Toolkit_Asset%2036_ATP-HC_EN.pdf",
+  "tree": {
+   "url": "https://meditopia.com/en/forwork/articles/workplace-stress-statistics",
+   "found": true,
+   "context": "Over 50% of European workers report stress as common in their job.…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.mentalhealthcommission.ca/wp-content/uploads/drupal/2019-03/C4HC%20Toolkit_Asset%2036_ATP-HC_EN.pdf",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group",
+     "status": "off-topic",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 1.8
+ },
+ {
+  "claim": "40% of employees report feeling stressed during much",
+  "url": "https://meditopia.com/en/forwork/articles/workplace-stress-statistics",
+  "sentence": "In the United States, around 40% of employees report feeling stressed during much of the workday, placing the country among the higher-stress labour markets globally.",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://www.apa.org/pubs/reports/work-in-america\n  https://www.mentalhealthcommission.ca/wp-content/uploads/drupal/2019-03/C4HC%20Toolkit_Asset%2036_ATP-HC_EN.pdf",
+  "tree": {
+   "url": "https://meditopia.com/en/forwork/articles/workplace-stress-statistics",
+   "found": true,
+   "context": "40% of employees experienced stress “a lot of the day” (previous day)…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.apa.org/pubs/reports/work-in-america",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://www.mentalhealthcommission.ca/wp-content/uploads/drupal/2019-03/C4HC%20Toolkit_Asset%2036_ATP-HC_EN.pdf",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": ""
+  },
+  "seconds": 15.3
+ },
+ {
+  "claim": "282 million cases of malaria worldwide resulted in",
+  "url": "https://en.wikipedia.org/wiki/Malaria",
+  "sentence": "ical regions that exist in a broad band around the equator.[16][1] This includes much of sub-Saharan Africa, Asia and Latin America.[3] In 2024, some 282 million cases of malaria worldwide resulted in an estimated 610,000 deaths, up from 273 million cases in 2023.[4] The WHO African Region accounted approximat",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2025  (publication date unknown)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Malaria",
+   "found": true,
+   "context": "282 million (2024)[4]…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2025",
+     "found": true,
+     "context": "Despite these gains, however, malaria remains a serious global health challenge, with an estimated 282 million cases and 610,000 deaths in 2024 – roughly 9 million more cases than the previous year. The WHO African Regio…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-10-30"
+  },
+  "seconds": 1.9
+ },
+ {
+  "claim": "12 billion a year due to increased healthcare",
+  "url": "https://en.wikipedia.org/wiki/Malaria",
+  "sentence": "commonly associated with poverty and has a significant negative effect on economic development;[18][19] in 2005 it was estimated that Africa loses US$12 billion a year due to increased healthcare costs, lost ability to work and adverse effects on tourism.[20]",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  http://ftp.iza.org/dp2997.pdf\n  https://pubmed.ncbi.nlm.nih.gov/16185240\n  https://doi.org/10.1016/s0140-6736(05)66420-3\n  https://pubmed.ncbi.nlm.nih.gov/15850634",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Malaria",
+   "found": true,
+   "context": "…a significant negative effect on economic development;[18][19] in 2005 it was estimated that Africa loses US$12 billion a year due to increased healthcare costs, lost ability to work and adverse effects on tourism.[20]…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "http://ftp.iza.org/dp2997.pdf",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1111/j.1365-3156.2005.01476.x",
+     "found": false,
+     "context": "",
+     "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+     "status": "unreachable",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16185240",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1016/s0140-6736(05)66420-3",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://pubmed.ncbi.nlm.nih.gov/15850634",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-10-30"
+  },
+  "seconds": 33.4
+ },
+ {
+  "claim": "25% of cases. It is caused by damage",
+  "url": "https://en.wikipedia.org/wiki/Malaria",
+  "sentence": "Malaria can lead to acute respiratory distress syndrome in up to 25% of cases. It is caused by damage to the capillary endothelium, in turn damaging the alveoli of the lung.[20][34] Symptoms are extreme shortness of br",
+  "verdict": "NOT FOUND",
+  "why": "The starting page doesn't state this number about this topic. the number appears, but not about the claim's topic or group",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Malaria",
+   "found": false,
+   "context": "",
+   "note": "the number appears, but not about the claim's topic or group",
+   "status": "off-topic",
+   "children": [],
+   "archived": false
+  },
+  "seconds": 1.5
+ },
+ {
+  "claim": "40,000 parasites.[41] After 5 to 25 days the",
+  "url": "https://en.wikipedia.org/wiki/Malaria",
+  "sentence": "They grow and divide in the liver, with each infected hepatocyte eventually harboring up to 40,000 parasites.[41] After 5 to 25 days the infected hepatocytes break down, releasing Plasmodium—in a smaller form called merozoites, into the bloodstream",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://doi.org/10.1016/j.cell.2016.07.055\n  https://pubmed.ncbi.nlm.nih.gov/27768886",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Malaria",
+   "found": true,
+   "context": "They grow and divide in the liver, with each infected hepatocyte eventually harboring up to 40,000 parasites.[41] After 5 to 25 days the infected hepatocytes break down, releasing Plasmodium—in a smaller form called mero…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://doi.org/10.1016/j.cell.2016.07.055",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "http://www.cell.com/article/S009286741631008X/pdf",
+       "found": false,
+       "context": "",
+       "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+       "status": "unreachable",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27768886",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-10-30"
+  },
+  "seconds": 47.7
+ },
+ {
+  "claim": "31% of Earth's land surface is covered by",
+  "url": "https://en.wikipedia.org/wiki/Deforestation",
+  "sentence": "ees from land that is then converted to non-forest use.[1] Deforestation can involve conversion of forest land to farms, ranches, or urban use. About 31% of Earth's land surface is covered by forests at present.[2] This is one-third less than the forest cover before the expansion of agriculture, with h",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  http://www.worldwildlife.org/threats/deforestation  (publication date unknown)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Deforestation",
+   "found": true,
+   "context": "…non-forest use.[1] Deforestation can involve conversion of forest land to farms, ranches, or urban use. About 31% of Earth's land surface is covered by forests at present.[2] This is one-third less than the forest cover…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "http://www.worldwildlife.org/threats/deforestation",
+     "found": true,
+     "context": "Forests cover 31% of the land area on our planet. They produce vital oxygen and provide homes for people and wildlife. Many of the world’s most threatened and endangered animals live in forests, and 1.6 billion people re…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": true,
+     "date": "",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-05-17"
+  },
+  "seconds": 13.9
+ },
+ {
+  "claim": "90% of global deforestation was caused by agriculture",
+  "url": "https://en.wikipedia.org/wiki/Deforestation",
+  "sentence": "By far, the direct cause of most deforestation is agriculture.[9] In 2025 nearly 90% of global deforestation was caused by agriculture, with cropland expansion and pasture creation the primary drivers, this is up from more than 80% in",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.sciencedaily.com/releases/2022/09/220908172312.htm  (published 2022-09)\n  https://openknowledge.fao.org/server/api/core/bitstreams/4d54075e-d1c4-4ad4-8071-0ace4f0e92c6/content  (publication date unknown)\n  https://openknowledge.fao.org/server/api/core/bitstreams/c102eafa-bda6-4829-a58a-f0fd9831fe81/content  (published 2025-11-05)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Deforestation",
+   "found": true,
+   "context": "By far, the direct cause of most deforestation is agriculture.[9] In 2025 nearly 90% of global deforestation was caused by agriculture, with cropland expansion and pasture creation the primary drivers, this is up from mo…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.sciencedaily.com/releases/2012/09/120925091608.htm",
+     "found": true,
+     "context": "Agriculture Drives More Than 90% of Tropical Deforestation…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://www.sciencedaily.com/releases/2022/09/220908172312.htm",
+       "found": true,
+       "context": "Agriculture drives more than 90% of tropical deforestation…",
+       "note": "",
+       "status": "found",
+       "children": [],
+       "archived": false,
+       "date": "2022-09",
+       "copy": false
+      }
+     ],
+     "archived": false,
+     "date": "2012-09",
+     "copy": false
+    },
+    {
+     "url": "https://openknowledge.fao.org/handle/20.500.14283/cd7067en",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://openknowledge.fao.org/server/api/core/bitstreams/4d54075e-d1c4-4ad4-8071-0ace4f0e92c6/content",
+       "found": true,
+       "context": "…1em; padding-left: 0em; text-align: center; } .SGD { color: #007E8F; } @media amzn-kf8 { .big { line-height: 90%; height:0.95em; font-size: 280%; margin-right: 0.075em; margin-top: -0.15em; float:left; font-family:DropC…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://openknowledge.fao.org/server/api/core/bitstreams/4d54075e-d1c4-4ad4-8071-0ace4f0e92c6/CD2616EN_SOFA_notes.xhtml",
+         "found": false,
+         "context": "",
+         "note": "could not open it or an archived copy (HTTP Error 404: 404; archive: no copy)",
+         "status": "unreachable",
+         "children": [],
+         "archived": false,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "",
+       "copy": true
+      },
+      {
+       "url": "https://openknowledge.fao.org/server/api/core/bitstreams/c102eafa-bda6-4829-a58a-f0fd9831fe81/content",
+       "found": true,
+       "context": "…t area loss. Agricultural expansion remains the primary driver of global deforestation, accounting for nearly 90 percent of forest loss. In this century, another important aspect to consider is that approximately 3.6 Mha…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://doi.org/10.4060/cd5765en",
+         "found": false,
+         "context": "",
+         "note": "DIFFERENT NUMBER here: Land cover data are compiled from global remote sensing maps following the SEEA land cover classification.This analytical brief reports the main results and changes over time in land statistics and indicators with details at global, regiona…; checked its full report or a free copy instead",
+         "status": "different",
+         "children": [
+          {
+           "url": "https://openknowledge.fao.org/server/api/core/bitstreams/6a9f71f4-885f-453a-813b-0397c772d37d/content",
+           "found": false,
+           "context": "",
+           "note": "DIFFERENT NUMBER here: In 2023, global agricultural land was 4 800 million hectares (ha), more than one-third of the global land area.…",
+           "status": "different",
+           "children": [],
+           "archived": false,
+           "copy": true
+          }
+         ],
+         "archived": false,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "2025-11-05",
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.4060/cd7067en",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://openknowledge.fao.org/server/api/core/bitstreams/4d54075e-d1c4-4ad4-8071-0ace4f0e92c6/content",
+       "found": true,
+       "context": "…1em; padding-left: 0em; text-align: center; } .SGD { color: #007E8F; } @media amzn-kf8 { .big { line-height: 90%; height:0.95em; font-size: 280%; margin-right: 0.075em; margin-top: -0.15em; float:left; font-family:DropC…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://openknowledge.fao.org/server/api/core/bitstreams/4d54075e-d1c4-4ad4-8071-0ace4f0e92c6/CD2616EN_SOFA_notes.xhtml",
+         "found": false,
+         "context": "",
+         "note": "could not open it or an archived copy (HTTP Error 404: 404; archive: no copy)",
+         "status": "unreachable",
+         "children": [],
+         "archived": false,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "",
+       "copy": true
+      },
+      {
+       "url": "https://openknowledge.fao.org/server/api/core/bitstreams/c102eafa-bda6-4829-a58a-f0fd9831fe81/content",
+       "found": true,
+       "context": "…t area loss. Agricultural expansion remains the primary driver of global deforestation, accounting for nearly 90 percent of forest loss. In this century, another important aspect to consider is that approximately 3.6 Mha…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://doi.org/10.4060/cd5765en",
+         "found": false,
+         "context": "",
+         "note": "DIFFERENT NUMBER here: Land cover data are compiled from global remote sensing maps following the SEEA land cover classification.This analytical brief reports the main results and changes over time in land statistics and indicators with details at global, regiona…",
+         "status": "different",
+         "children": [],
+         "archived": false,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "2025-11-05",
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://news.mongabay.com/2021/11/glasgow-declaration-what-countries-are-leaders-in-reducing-deforestation/",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group",
+     "status": "off-topic",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.reuters.com/business/environment/over-100-global-leaders-pledge-end-deforestation-by-2030-2021-11-01/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-05-17"
+  },
+  "seconds": 140.1
+ },
+ {
+  "claim": "4.14 billion hectares (ha), which is 32% of",
+  "url": "https://en.wikipedia.org/wiki/Deforestation",
+  "sentence": "The world has a total forest area of 4.14 billion hectares (ha), which is 32% of the global land area and equivalent to 0.50 ha of forest per person. The tropical domain has the largest proportion of",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://openknowledge.fao.org/server/api/core/bitstreams/12322cae-5b20-4be2-927a-72a86fd319e9/content  (published 2025-09-22)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Deforestation",
+   "found": true,
+   "context": "The world has a total forest area of 4.14 billion hectares (ha), which is 32% of the global land area and equivalent to 0.50 ha of forest per person. The tropical domain has the largest proportion of the world’s forests…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://openknowledge.fao.org/handle/20.500.14283/cd6709en",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://openknowledge.fao.org/server/api/core/bitstreams/12322cae-5b20-4be2-927a-72a86fd319e9/content",
+       "found": true,
+       "context": "…up-to-date data on the world’s forests and how they are changing. For example, it reveals that the world has 4.14 billion hectares (ha) of forest, or 32 percent of total land area. Promisingly, the rate of deforestation…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://population.un.org/wpp/",
+         "found": false,
+         "context": "",
+         "note": "number not in this page's readable text",
+         "status": "missing",
+         "children": [],
+         "archived": false,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "2025-09-22",
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.4060/cd6709en",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://openknowledge.fao.org/server/api/core/bitstreams/12322cae-5b20-4be2-927a-72a86fd319e9/content",
+       "found": true,
+       "context": "…up-to-date data on the world’s forests and how they are changing. For example, it reveals that the world has 4.14 billion hectares (ha) of forest, or 32 percent of total land area. Promisingly, the rate of deforestation…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://population.un.org/wpp/",
+         "found": false,
+         "context": "",
+         "note": "number not in this page's readable text",
+         "status": "missing",
+         "children": [],
+         "archived": false,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "2025-09-22",
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-05-17"
+  },
+  "seconds": 33.1
+ },
+ {
+  "claim": "10.7 million ha per year between 1990–2000 to",
+  "url": "https://en.wikipedia.org/wiki/Deforestation",
+  "sentence": "The rate of net forest loss decreased globally from 10.7 million ha per year between 1990–2000 to 3.68 million ha per year in 2000–2015 due mainly to large increases in forest area in Canada, China, the Russian Fed",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://openknowledge.fao.org/server/api/core/bitstreams/12322cae-5b20-4be2-927a-72a86fd319e9/content  (published 2025-09-22)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Deforestation",
+   "found": true,
+   "context": "The rate of net forest loss decreased globally from 10.7 million ha per year between 1990–2000 to 3.68 million ha per year in 2000–2015 due mainly to large increases in forest area in Canada, China, the Russian Federatio…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://openknowledge.fao.org/handle/20.500.14283/cd6709en",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://openknowledge.fao.org/server/api/core/bitstreams/12322cae-5b20-4be2-927a-72a86fd319e9/content",
+       "found": true,
+       "context": "…FOREST AREA HAS BEEN REDUCED BY MORE THAN HALF SINCE THE 1990S The annual rate of net forest loss2 fell from 10.7 million ha in 1990–2000 to 4.12 million ha in 2015–2025. This was the result of reduced deforestation in…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://data.europa.eu/doi/10.2760/262532",
+         "found": false,
+         "context": "",
+         "note": "number not in this page's readable text; checked its full report or a free copy instead",
+         "status": "missing",
+         "children": [
+          {
+           "url": "http://agritrop.cirad.fr/608995/13/mapping%20global%20forest%20cover%20of%20the%20year%202020%20to%20support-KJNA31888ENN.pdf",
+           "found": false,
+           "context": "",
+           "note": "number not in this page's readable text",
+           "status": "missing",
+           "children": [],
+           "archived": false,
+           "copy": true
+          }
+         ],
+         "archived": false,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "2025-09-22",
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.4060/cd6709en",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://openknowledge.fao.org/server/api/core/bitstreams/12322cae-5b20-4be2-927a-72a86fd319e9/content",
+       "found": true,
+       "context": "…FOREST AREA HAS BEEN REDUCED BY MORE THAN HALF SINCE THE 1990S The annual rate of net forest loss2 fell from 10.7 million ha in 1990–2000 to 4.12 million ha in 2015–2025. This was the result of reduced deforestation in…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://data.europa.eu/doi/10.2760/262532",
+         "found": false,
+         "context": "",
+         "note": "number not in this page's readable text; checked its full report or a free copy instead",
+         "status": "missing",
+         "children": [
+          {
+           "url": "http://agritrop.cirad.fr/608995/13/mapping%20global%20forest%20cover%20of%20the%20year%202020%20to%20support-KJNA31888ENN.pdf",
+           "found": false,
+           "context": "",
+           "note": "number not in this page's readable text",
+           "status": "missing",
+           "children": [],
+           "archived": false,
+           "copy": true
+          }
+         ],
+         "archived": false,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "2025-09-22",
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-05-17"
+  },
+  "seconds": 34.4
+ },
+ {
+  "claim": "485 million years ago, at the dawn of",
+  "url": "https://en.wikipedia.org/wiki/Coral_reef",
+  "sentence": " exoskeletons that support and protect the coral. Most reefs grow best in warm, shallow, clear, sunny, and agitated water. Coral reefs first appeared 485 million years ago, at the dawn of the Early Ordovician, displacing the microbial and sponge reefs of the Cambrian.[2]",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://doi.org/10.1016/j.earscirev.2015.03.002\n  https://doi.org/10.1007/978-94-017-7249-5_8\n  https://citation-needed.springer.com/v2/references/10.1007/978-94-017-7249-5_8?format=refman&flavour=references\n  https://doi.org/10.1016/s0022-5193(85)80076-x\n  https://doi.org/10.1007/bf00298083\n  https://citation-needed.springer.com/v2/references/10.1007/BF00298083?format=refman&flavour=references\n  https://citation-needed.springer.com/v2/references/10.1007/BF00298083?format=refman&flavour=citation",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Coral_reef",
+   "found": true,
+   "context": "…he coral. Most reefs grow best in warm, shallow, clear, sunny, and agitated water. Coral reefs first appeared 485 million years ago, at the dawn of the Early Ordovician, displacing the microbial and sponge reefs of the C…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://doi.org/10.1016/j.earscirev.2015.03.002",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1007/978-94-017-7249-5_8",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://citation-needed.springer.com/v2/references/10.1007/978-94-017-7249-5_8?format=refman&flavour=references",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1016/s0022-5193(85)80076-x",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1007/bf00298083",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://citation-needed.springer.com/v2/references/10.1007/BF00298083?format=refman&flavour=references",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://citation-needed.springer.com/v2/references/10.1007/BF00298083?format=refman&flavour=citation",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-09-18"
+  },
+  "seconds": 12.4
+ },
+ {
+  "claim": "0.1% of the world's ocean area, about half",
+  "url": "https://en.wikipedia.org/wiki/Coral_reef",
+  "sentence": "Sometimes called rainforests of the sea,[3] shallow coral reefs form some of Earth's most diverse ecosystems. They occupy less than 0.1% of the world's ocean area, about half the area of France. Yet, they provide a home for at least 25% of all marine species,[4][5][6][7] including fish",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://oceanservice.noaa.gov/oceans/corals/\n  https://doi.org/10.1007/s003380050078\n  https://citation-needed.springer.com/v2/references/10.1007/s003380050078?format=refman&flavour=citation\n  http://www.law.duke.edu/shell/cite.pl?19+Duke+Envtl.+L.+&+Pol%27y+F.+321+pdf\n  http://coralreef.noaa.gov/aboutcorals/coral101/corallocations/\n  https://coralreef.noaa.gov/education/coralfacts.html",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Coral_reef",
+   "found": true,
+   "context": "…orests of the sea,[3] shallow coral reefs form some of Earth's most diverse ecosystems. They occupy less than 0.1% of the world's ocean area, about half the area of France. Yet, they provide a home for at least 25% of al…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://oceanservice.noaa.gov/oceans/corals/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1007/s003380050078",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://citation-needed.springer.com/v2/references/10.1007/s003380050078?format=refman&flavour=citation",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "http://www.law.duke.edu/shell/cite.pl?19+Duke+Envtl.+L.+&+Pol%27y+F.+321+pdf",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "http://coralreef.noaa.gov/aboutcorals/coral101/corallocations/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://coralreef.noaa.gov/education/coralfacts.html",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-09-18"
+  },
+  "seconds": 48.8
+ },
+ {
+  "claim": "50% since 1950, partly because they are sensitive",
+  "url": "https://en.wikipedia.org/wiki/Coral_reef",
+  "sentence": "Shallow tropical coral reefs have declined by 50% since 1950, partly because they are sensitive to water conditions.[10] They are under threat from excess nutrients (nitrogen and phosphorus), rising ",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://www.theguardian.com/environment/2021/sep/17/global-coral-cover-halves-since-1950s-analysis-finds-aoe",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Coral_reef",
+   "found": true,
+   "context": "Shallow tropical coral reefs have declined by 50% since 1950, partly because they are sensitive to water conditions.[10] They are under threat from excess nutrients (nitrogen and phosphorus), rising ocean heat content an…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.theguardian.com/environment/2021/sep/17/global-coral-cover-halves-since-1950s-analysis-finds-aoe",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-09-18"
+  },
+  "seconds": 4.7
+ },
+ {
+  "claim": "2.7 trillion (a 2020 estimate)[17] to US$9.9 trillion",
+  "url": "https://en.wikipedia.org/wiki/Coral_reef",
+  "sentence": "ection. The annual global economic value of coral reefs has been estimated at anywhere from US$30–375 billion (1997 and 2003 estimates)[15][16] to US$2.7 trillion (a 2020 estimate)[17] to US$9.9 trillion (a 2014 estimate).[18]",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://gcrmn.net/2020-report/  (publication date unknown)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Coral_reef",
+   "found": true,
+   "context": "…of coral reefs has been estimated at anywhere from US$30–375 billion (1997 and 2003 estimates)[15][16] to US$2.7 trillion (a 2020 estimate)[17] to US$9.9 trillion (a 2014 estimate).[18]…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://assets.panda.org/downloads/cesardegradationreport100203.pdf",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://discovery.ucl.ac.uk/id/eprint/10189378/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://discovery.ucl.ac.uk/10189378/1/Costanza_et%20al.%20Nature%201997%20prepublicaton.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://discovery.ucl.ac.uk/10189378/1.haslightboxThumbnailVersion/Costanza_et%20al.%20Nature%201997%20prepublicaton.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1038/387253a0",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://static-content.springer.com/esm/art%3A10.1038%2F387253a0/MediaObjects/41586_1997_BF387253a0_MOESM1_ESM.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "scanned": true,
+       "copy": true
+      },
+      {
+       "url": "https://citation-needed.springer.com/v2/references/10.1038/387253a0?format=refman&flavour=references",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://gcrmn.net/2020-report/",
+     "found": true,
+     "context": "…of hundreds of millions of people. The value of goods and services provided by coral reefs is estimated at US$2.7 trillion per year, including US$36 billion in coral reef tourism. However, coral reefs are among the most…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "",
+     "copy": false
+    },
+    {
+     "url": "https://discovery.ucl.ac.uk/id/eprint/10189453/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://discovery.ucl.ac.uk/10189453/3/Costanza_Changes%20in%20global%20ES%20value%20GEC%20Prepub.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://discovery.ucl.ac.uk/10189453/3.haslightboxThumbnailVersion/Costanza_Changes%20in%20global%20ES%20value%20GEC%20Prepub.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-09-18"
+  },
+  "seconds": 76.8
+ },
+ {
+  "claim": "49% of men and 11% of women aged",
+  "url": "https://en.wikipedia.org/wiki/Tobacco_smoking",
+  "sentence": "d world have either peaked or declined.[12] However, they continue to climb in the developing world.[13] As of 2008 to 2010, tobacco is used by about 49% of men and 11% of women aged 15 or older in fourteen low-income and middle-income countries (Bangladesh, Brazil, China, Egypt, India, Mexico, Philipp",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://doi.org/10.1016/s0140-6736(12)61085-x\n  https://pubmed.ncbi.nlm.nih.gov/22901888",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Tobacco_smoking",
+   "found": true,
+   "context": "…12] However, they continue to climb in the developing world.[13] As of 2008 to 2010, tobacco is used by about 49% of men and 11% of women aged 15 or older in fourteen low-income and middle-income countries (Bangladesh, B…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://doi.org/10.1016/s0140-6736(12)61085-x",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22901888",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-06-23"
+  },
+  "seconds": 3.7
+ },
+ {
+  "claim": "1560, and tobacco then spread to England. The",
+  "url": "https://en.wikipedia.org/wiki/Tobacco_smoking",
+  "sentence": "Frenchman Jean Nicot (from whose name the word nicotine is derived) introduced tobacco to France in 1560, and tobacco then spread to England. The first report of a smoking Englishman is of a sailor in Bristol in 1556, seen \"emitting smoke from his nostri",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://en.wikipedia.org/wiki/Jean_Nicot  (published 2002-11-05; that's 24 years ago, check for a newer figure)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Tobacco_smoking",
+   "found": true,
+   "context": "Frenchman Jean Nicot (from whose name the word nicotine is derived) introduced tobacco to France in 1560, and tobacco then spread to England. The first report of a smoking Englishman is of a sailor in Bristol in 1556, se…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Jean_Nicot",
+     "found": true,
+     "context": "…cotiana tabacum, which in turn is named after Jean Nicot de Villemain, who sent tobacco and seeds to Paris in 1560, presented it to the King Francis II,[2] and who promoted their medicinal use. Smoking was believed to pr…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-8089-2354-1",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      }
+     ],
+     "archived": false,
+     "date": "2002-11-05",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-06-23"
+  },
+  "seconds": 3.1
+ },
+ {
+  "claim": "4000% increase of tobacco taxation in 1604, it",
+  "url": "https://en.wikipedia.org/wiki/Tobacco_smoking",
+  "sentence": "es I of England, a staunch smoking opponent and the author of the aforementioned Counterblaste to Tobacco, tried to curb the new trend by enforcing a 4000% increase of tobacco taxation in 1604, it was unsuccessful, as suggested by the presence of around 7,000 tobacco outlets in London by the early 17th c",
+  "verdict": "DIFFERENT NUMBER",
+  "why": "A cited source discusses this but gives a different number. The number may have changed as it was copied:\n  https://en.wikipedia.org/wiki/Tobacco_taxation",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Tobacco_smoking",
+   "found": true,
+   "context": "…ent and the author of the aforementioned Counterblaste to Tobacco, tried to curb the new trend by enforcing a 4000% increase of tobacco taxation in 1604, it was unsuccessful, as suggested by the presence of around 7,000…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://en.wikipedia.org/wiki/James_I_of_England",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Counterblaste_to_Tobacco",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "http://www.laits.utexas.edu/poltheory/james/blaste/",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Tobacco_taxation",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: Thus, in HICs a 10% increase in the price of cigarettes may be expected to decrease tobacco consumption by 4%, while in LMICs a 10% increase in price may be expected to decrease consumption by 5%.…",
+     "status": "different",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-06-23"
+  },
+  "seconds": 4.7
+ },
+ {
+  "claim": "24,000 tons in 1948 and 69,000 tons in",
+  "url": "https://en.wikipedia.org/wiki/Tobacco_smoking",
+  "sentence": "nd leaders of the Nazi anti-smoking campaign were silenced.[42] As part of the Marshall Plan, the United States shipped free tobacco to Germany; with 24,000 tons in 1948 and 69,000 tons in 1949.[41] Per capita yearly cigarette consumption in post-war Germany steadily rose from 460 in 1950 to 1,523 in 1963",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://en.wikipedia.org/wiki/Marshall_Plan",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Tobacco_smoking",
+   "found": true,
+   "context": "…aign were silenced.[42] As part of the Marshall Plan, the United States shipped free tobacco to Germany; with 24,000 tons in 1948 and 69,000 tons in 1949.[41] Per capita yearly cigarette consumption in post-war Germany s…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Marshall_Plan",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group",
+     "status": "off-topic",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-06-23"
+  },
+  "seconds": 3.6
+ },
+ {
+  "claim": "1.27 million global deaths in 2019 and contributed",
+  "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+  "sentence": "tion (WHO) claims that AMR is one of the top global public health and development threats, estimating that bacterial AMR was directly responsible for 1.27 million global deaths in 2019 and contributed to over 4 million deaths in 2021.[3] The burden of AMR is immense, with nearly 5 million annual deaths associat",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://apps.who.int/gb/ebwha/pdf_files/WHA77/A77_5-en.pdf  (published 2024-04-11)\n  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8841637  (published 2022)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+   "found": true,
+   "context": "…top global public health and development threats, estimating that bacterial AMR was directly responsible for 1.27 million global deaths in 2019 and contributed to over 4 million deaths in 2021.[3] The burden of AMR is i…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: Bacterial AMR was estimated to be associated with more than 4.7 million deaths globally in 2021 (1).…; checked its full report or a free copy instead",
+     "status": "different",
+     "children": [
+      {
+       "url": "https://apps.who.int/gb/ebwha/pdf_files/WHA77/A77_5-en.pdf",
+       "found": true,
+       "context": "…ssional period. 2. Antimicrobial resistance is an urgent global health and socioeconomic crisis. An estimated 1.27 million global deaths were attributed to drug-resistant bacterial infections in 2019. Antimicrobial resis…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://www.fao.org/documents/card/en/c/cb5545en",
+         "found": false,
+         "context": "",
+         "note": "number not in this page's readable text; checked its full report or a free copy instead",
+         "status": "missing",
+         "children": [
+          {
+           "url": "https://openknowledge.fao.org/server/api/core/bitstreams/dd6c0ba1-fd85-4a3e-b398-53b610c35318/content",
+           "found": false,
+           "context": "",
+           "note": "number not in this page's readable text",
+           "status": "missing",
+           "children": [],
+           "archived": false,
+           "copy": true
+          }
+         ],
+         "archived": false,
+         "copy": false
+        },
+        {
+         "url": "https://www.woah.org/app/uploads/2021/03/en-amr-strategy-2022-finalsingle-pages.pdf",
+         "found": false,
+         "context": "",
+         "note": "could not open it or an archived copy (HTTP Error 404: Not Found; archive: no copy)",
+         "status": "unreachable",
+         "children": [],
+         "archived": false,
+         "copy": false
+        },
+        {
+         "url": "https://www.unep.org/resources/superbugs/environmental-action,accessed",
+         "found": false,
+         "context": "",
+         "note": "could not open it or an archived copy (HTTP Error 404: Not Found; archive: no copy)",
+         "status": "unreachable",
+         "children": [],
+         "archived": false,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "2024-04-11",
+       "copy": true
+      },
+      {
+       "url": "https://apps.who.int/gb/ebwha/pdf_files/WHA79/A79_(19)-en.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.who.int/news/item/10-10-2024-better-use-of-vaccines-could-reduce-antibiotic-use-by-2.5-billion-doses-annually--says-who",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: Each year, nearly 5 million deaths are associated with AMR globally.…; checked its full report or a free copy instead",
+     "status": "different",
+     "children": [
+      {
+       "url": "https://apps.who.int/gb/ebwha/pdf_files/WHA77/A77_R6-en.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8841637",
+     "found": true,
+     "context": "…els, there were an estimated 4.95 million (3.62–6.57) deaths associated with bacterial AMR in 2019, including 1.27 million (95% UI 0.911–1.71) deaths attributable to bacterial AMR. At the regional level, we estimated the…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://doi.org/10.1016/s0140-6736(20)30925-9",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text; checked its full report or a free copy instead",
+       "status": "missing",
+       "children": [
+        {
+         "url": "http://www.thelancet.com/article/S0140673620309259/pdf",
+         "found": false,
+         "context": "",
+         "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+         "status": "unreachable",
+         "children": [],
+         "archived": false,
+         "copy": true
+        }
+       ],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://pubmed.ncbi.nlm.nih.gov/33069326/",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://doi.org/10.1016/s2214-109x(18)30278-x",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text; checked its full report or a free copy instead",
+       "status": "missing",
+       "children": [
+        {
+         "url": "http://www.thelancet.com/article/S2214109X1830278X/pdf",
+         "found": false,
+         "context": "",
+         "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+         "status": "unreachable",
+         "children": [],
+         "archived": false,
+         "copy": true
+        }
+       ],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://pubmed.ncbi.nlm.nih.gov/30103998/",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      }
+     ],
+     "archived": false,
+     "date": "2022",
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1016/s0140-6736(21)02724-0",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "http://www.thelancet.com/article/S0140673621027240/pdf",
+       "found": false,
+       "context": "",
+       "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+       "status": "unreachable",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35065702",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-02-25"
+  },
+  "seconds": 68.8
+ },
+ {
+  "claim": "5 million deaths were associated with AMR and",
+  "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+  "sentence": "In 2024, nearly 5 million deaths were associated with AMR and deaths attributable to AMR numbered 1.27 million. One in five people who died due to AMR were children under five",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.who.int/news/item/10-10-2024-better-use-of-vaccines-could-reduce-antibiotic-use-by-2.5-billion-doses-annually--says-who  (published 2024-10-10)\n  https://www.cdc.gov/antimicrobial-resistance/about/  (published 2026-11-17)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+   "found": true,
+   "context": "…deaths in 2019 and contributed to over 4 million deaths in 2021.[3] The burden of AMR is immense, with nearly 5 million annual deaths associated with resistant infections.[9] Infections from AMR microbes are more challen…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.who.int/news/item/10-10-2024-better-use-of-vaccines-could-reduce-antibiotic-use-by-2.5-billion-doses-annually--says-who",
+     "found": true,
+     "context": "…the same time, many people around the world do not have access to essential antimicrobials. Each year, nearly 5 million deaths are associated with AMR globally.…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://gh.bmj.com/content/8/7/e011341",
+       "found": false,
+       "context": "",
+       "note": "DIFFERENT NUMBER here: Introduction Antimicrobial resistance (AMR) is a global health threat with 1.27 million and 4.95 million deaths attributable to and associated with bacterial AMR, respectively, in 2019.…; checked its full report or a free copy instead",
+       "status": "different",
+       "children": [
+        {
+         "url": "https://gh.bmj.com/bmjgh/8/7/e011341.full.pdf",
+         "found": false,
+         "context": "",
+         "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+         "status": "unreachable",
+         "children": [],
+         "archived": false,
+         "copy": true
+        }
+       ],
+       "archived": true,
+       "copy": false
+      }
+     ],
+     "archived": false,
+     "date": "2024-10-10",
+     "copy": false
+    },
+    {
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8841637",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: On the basis of our predictive statistical models, there were an estimated 4.95 million (3.62–6.57) deaths associated with bacterial AMR in 2019, including 1.27 million (95% UI 0.911–1.71) deaths attributable to bacterial AMR.…; checked its full report or a free copy instead",
+     "status": "different",
+     "children": [
+      {
+       "url": "https://pmc.ncbi.nlm.nih.gov:443/articles/instance/9519383/bin/mmc1.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1016/s0140-6736(21)02724-0",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "http://www.thelancet.com/article/S0140673621027240/pdf",
+       "found": false,
+       "context": "",
+       "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+       "status": "unreachable",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://pubmed.ncbi.nlm.nih.gov/35065702",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.cdc.gov/antimicrobial-resistance/about/",
+     "found": true,
+     "context": "…c health threat, estimated to kill more than one million people globally each year and associated with nearly 5 million deaths in 2019. According to CDC's 2026 Antimicrobial Resistance Threats Report (AR Threats Report),…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://arpsp.cdc.gov/artr",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://www.cdc.gov/c-diff/index.html",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      }
+     ],
+     "archived": false,
+     "date": "2026-11-17",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-02-25"
+  },
+  "seconds": 44.3
+ },
+ {
+  "claim": "671,689 infections in the EU and European Economic",
+  "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+  "sentence": "The European Centre for Disease Prevention and Control calculated that in 2015, there were 671,689 infections in the EU and European Economic Area caused by antibiotic-resistant bacteria, resulting in 33,110 deaths. Most were acquired in healthcare",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://en.wikipedia.org/wiki/European_Centre_for_Disease_Prevention_and_Control\n  https://en.wikipedia.org/wiki/European_Economic_Area",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+   "found": true,
+   "context": "The European Centre for Disease Prevention and Control calculated that in 2015, there were 671,689 infections in the EU and European Economic Area caused by antibiotic-resistant bacteria, resulting in 33,110 deaths. Most…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://en.wikipedia.org/wiki/European_Centre_for_Disease_Prevention_and_Control",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/European_Economic_Area",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-02-25"
+  },
+  "seconds": 7.5
+ },
+ {
+  "claim": "1 in 3 prescriptions written for antibiotics are",
+  "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+  "sentence": "the problem. During mutation, when replication happens, these mutations help individual microbes survive exposure.[23] It is possible that as many as 1 in 3 prescriptions written for antibiotics are unnecessary.[26] Every year, approximately 154 million prescriptions for antibiotics are written. Of these,",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.cdc.gov/media/releases/2016/p0503-unnecessary-prescriptions.html  (published 2016-01-01; that's 10 years ago, check for a newer figure)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+   "found": true,
+   "context": "…cation happens, these mutations help individual microbes survive exposure.[23] It is possible that as many as 1 in 3 prescriptions written for antibiotics are unnecessary.[26] Every year, approximately 154 million prescr…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.cdc.gov/media/releases/2016/p0503-unnecessary-prescriptions.html",
+     "found": true,
+     "context": "CDC: 1 in 3 antibiotic prescriptions unnecessary…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": true,
+     "date": "2016-01-01",
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1001/jama.2016.4151",
+     "found": false,
+     "context": "",
+     "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy); checked its full report or a free copy instead",
+     "status": "unreachable",
+     "children": [
+      {
+       "url": "https://jamanetwork.com/journals/jama/articlepdf/2518263/joi160036.pdf",
+       "found": false,
+       "context": "",
+       "note": "DIFFERENT NUMBER here: Half of antibiotic prescriptions for acute respiratory conditions may have been unnecessary, representing 34 million antibiotic prescriptions annually.…",
+       "status": "different",
+       "children": [],
+       "archived": true,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27139059",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2002-02-25"
+  },
+  "seconds": 35.8
+ },
+ {
+  "claim": "one in six of the world's population experiencing",
+  "url": "https://en.wikipedia.org/wiki/Loneliness",
+  "sentence": "Most people suffer temporary loneliness at some points in their lives, with about one in six of the world's population experiencing significant long-term loneliness. Adolescents tend to experience the highest levels of loneliness; in later ye",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://iris.who.int/bitstream/handle/10665/381746/9789240112360-eng.pdf?sequence=1",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Loneliness",
+   "found": true,
+   "context": "Most people suffer temporary loneliness at some points in their lives, with about one in six of the world's population experiencing significant long-term loneliness. Adolescents tend to experience the highest levels of l…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://iris.who.int/bitstream/handle/10665/381746/9789240112360-eng.pdf?sequence=1",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2005-03-05"
+  },
+  "seconds": 2.8
+ },
+ {
+  "claim": "1,009 students found that only family loneliness was",
+  "url": "https://en.wikipedia.org/wiki/Loneliness",
+  "sentence": "Family loneliness results when individuals feel they lack close ties with family members. A 2010 study of 1,009 students found that only family loneliness was associated with increased frequency of self-harm, not romantic or social loneliness.[39][21]",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://doi.org/10.1016/j.jrp.2010.12.005",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Loneliness",
+   "found": true,
+   "context": "Family loneliness results when individuals feel they lack close ties with family members. A 2010 study of 1,009 students found that only family loneliness was associated with increased frequency of self-harm, not romanti…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://doi.org/10.1016/j.jrp.2010.12.005",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2005-03-05"
+  },
+  "seconds": 3.5
+ },
+ {
+  "claim": "8.6% of the adult population in Europe experience",
+  "url": "https://en.wikipedia.org/wiki/Loneliness",
+  "sentence": "od was conducted by Joint Research Centre of the European Commission within the project Loneliness in Europe.[60] The empirical results indicate that 8.6% of the adult population in Europe experience frequent loneliness and 20.8% experience social isolation, with eastern Europe recording the highest pre",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://publications.jrc.ec.europa.eu/repository/handle/JRC126802",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Loneliness",
+   "found": true,
+   "context": "…e of the European Commission within the project Loneliness in Europe.[60] The empirical results indicate that 8.6% of the adult population in Europe experience frequent loneliness and 20.8% experience social isolation, w…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC126802",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2005-03-05"
+  },
+  "seconds": 2.7
+ },
+ {
+  "claim": "8% rise in agreement with the statement \"I",
+  "url": "https://en.wikipedia.org/wiki/Loneliness",
+  "sentence": "In Australia, the annual national Household, Income and Labour Dynamics in Australia (HILDA) Survey has reported a steady 8% rise in agreement with the statement \"I often feel very lonely\" between 2009 and 2021, responses indicating \"strongly agree\" rose steadily by over 20",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://hildaodd.app.unimelb.edu.au/KWCrossWaveCategoryDetails.aspx?varnt=lssupvl",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Loneliness",
+   "found": true,
+   "context": "…, the annual national Household, Income and Labour Dynamics in Australia (HILDA) Survey has reported a steady 8% rise in agreement with the statement \"I often feel very lonely\" between 2009 and 2021, responses indicating…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://hildaodd.app.unimelb.edu.au/KWCrossWaveCategoryDetails.aspx?varnt=lssupvl",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2005-03-05"
+  },
+  "seconds": 3.8
+ },
+ {
+  "claim": "87%, which was a substantial increase from 200",
+  "url": "https://en.wikipedia.org/wiki/Literacy",
+  "sentence": "In 2022, the World Economic Forum estimated the global literacy rate at 87%, which was a substantial increase from 200 years ago, where it was at 12% in 1820.[4] The UNESCO Institute of Statistics in 2025, noted that from 197",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://www.weforum.org/stories/2022/09/reading-writing-global-literacy-rate-changed/",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Literacy",
+   "found": true,
+   "context": "In 2022, the World Economic Forum estimated the global literacy rate at 87%, which was a substantial increase from 200 years ago, where it was at 12% in 1820.[4] The UNESCO Institute of Statistics in 2025, noted that fro…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.weforum.org/stories/2022/09/reading-writing-global-literacy-rate-changed/",
+     "found": false,
+     "context": "",
+     "note": "the number appears, but not about the claim's topic or group",
+     "status": "off-topic",
+     "children": [],
+     "archived": true,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-11-19"
+  },
+  "seconds": 29.1
+ },
+ {
+  "claim": "1% of the population was literate, as it",
+  "url": "https://en.wikipedia.org/wiki/Literacy",
+  "sentence": "t early acts of literacy were, in some areas (such as Egypt), closely tied to power and chiefly used for management practices, and probably less than 1% of the population was literate, as it was confined to a very small group.[citation needed] Scholarship by others, such as Dominique Charpin and a pro",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://en.wikipedia.org/wiki/Wikipedia:Citation_needed\n  https://en.wikipedia.org/wiki/Template:Bare_URL_PDF",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Literacy",
+   "found": true,
+   "context": "…reas (such as Egypt), closely tied to power and chiefly used for management practices, and probably less than 1% of the population was literate, as it was confined to a very small group.[citation needed] Scholarship by o…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://en.wikipedia.org/wiki/Template:Bare_URL_PDF",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-11-19"
+  },
+  "seconds": 4.6
+ },
+ {
+  "claim": "5% and 10%, with the lowest rates amongst",
+  "url": "https://en.wikipedia.org/wiki/Literacy",
+  "sentence": "Historian William V. Harris in his studies estimates the level of literacy in classical Greece, which he argued was high for its time between 5% and 10%, with the lowest rates amongst women, enslaved populations and those in the countryside.[76] Catherine Hezser explains that majority of the p",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://books.google.co.tz/books/about/Ancient_Literacy.html?id=TChZ2JwTxp8C&source=kp_book_description&redir_esc=y",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Literacy",
+   "found": true,
+   "context": "…is studies estimates the level of literacy in classical Greece, which he argued was high for its time between 5% and 10%, with the lowest rates amongst women, enslaved populations and those in the countryside.[76] Cather…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://books.google.co.tz/books/about/Ancient_Literacy.html?id=TChZ2JwTxp8C&source=kp_book_description&redir_esc=y",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-11-19"
+  },
+  "seconds": 3.8
+ },
+ {
+  "claim": "50% of husbandmen could either sign their name",
+  "url": "https://en.wikipedia.org/wiki/Literacy",
+  "sentence": "es\" who could spell out words to read, and of people who knew the letters though not words, were particularly common in Southern English rural areas: 50% of husbandmen could either sign their name or provide an initial.[89]",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://academic.oup.com/past/article-pdf/260/1/38/50949320/gtac019.pdf",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Literacy",
+   "found": true,
+   "context": "…nd of people who knew the letters though not words, were particularly common in Southern English rural areas: 50% of husbandmen could either sign their name or provide an initial.[89]…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://doi.org/10.1093/pastj/gtac019",
+     "found": false,
+     "context": "",
+     "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy); checked its full report or a free copy instead",
+     "status": "unreachable",
+     "children": [
+      {
+       "url": "https://academic.oup.com/past/article-pdf/260/1/38/50949320/gtac019.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": true,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2001-11-19"
+  },
+  "seconds": 23.7
+ },
+ {
+  "claim": "four billion people face severe water scarcity at",
+  "url": "https://en.wikipedia.org/wiki/Water_scarcity",
+  "sentence": "e context of Sustainable Development Goal 6.[10] Half a billion people live in areas with severe water scarcity throughout the year,[5][8] and around four billion people face severe water scarcity at least one month per year.[5][11] Half of the world's largest cities experience water scarcity.[11] There are 2.3",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4758739  (published 2016; that's 10 years ago, check for a newer figure)\n  http://advances.sciencemag.org/content/2/2/e1500323  (published 2016-02-01; that's 10 years ago, check for a newer figure)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Water_scarcity",
+   "found": true,
+   "context": "…l 6.[10] Half a billion people live in areas with severe water scarcity throughout the year,[5][8] and around four billion people face severe water scarcity at least one month per year.[5][11] Half of the world's largest…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4758739",
+     "found": true,
+     "context": "Four billion people facing severe water scarcity…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://doi.org/10.1126/science.289.5477.284",
+       "found": false,
+       "context": "",
+       "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+       "status": "unreachable",
+       "children": [],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://pubmed.ncbi.nlm.nih.gov/10894773/",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://doi.org/10.1126/science.1128845",
+       "found": false,
+       "context": "",
+       "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+       "status": "unreachable",
+       "children": [],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://pubmed.ncbi.nlm.nih.gov/16931749/",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://doi.org/10.1371/journal.pone.0032688",
+       "found": false,
+       "context": "",
+       "note": "DIFFERENT NUMBER here: In 35 river basins with 483 million people, there was severe water scarcity for at least half of the year.…; checked its full report or a free copy instead",
+       "status": "different",
+       "children": [
+        {
+         "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0032688&type=printable",
+         "found": false,
+         "context": "",
+         "note": "DIFFERENT NUMBER here: In 35 river basins with 483 million people, there was severe water scarcity for at least half of the year.…",
+         "status": "different",
+         "children": [],
+         "archived": false,
+         "copy": true
+        }
+       ],
+       "archived": false,
+       "copy": false
+      }
+     ],
+     "archived": false,
+     "date": "2016",
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1126/sciadv.1500323",
+     "found": false,
+     "context": "",
+     "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy); checked its full report or a free copy instead",
+     "status": "unreachable",
+     "children": [
+      {
+       "url": "https://advances.sciencemag.org/content/advances/2/2/e1500323.full.pdf",
+       "found": true,
+       "context": "Four billion people facing severe water scarcity Mesfin M. Mekonnen* and Arjen Y. Hoekstra…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "http://advances.sciencemag.org/content/suppl/2016/02/09/2.2.e1500323.DC1",
+         "found": false,
+         "context": "",
+         "note": "number not in this page's readable text; checked its full report or a free copy instead",
+         "status": "missing",
+         "children": [
+          {
+           "url": "http://advances.sciencemag.org/highwire/filestream/188457/field_highwire_adjunct_files/0/1500323_SM.pdf",
+           "found": false,
+           "context": "",
+           "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+           "status": "unreachable",
+           "children": [],
+           "archived": false,
+           "copy": true
+          }
+         ],
+         "archived": true,
+         "copy": false
+        },
+        {
+         "url": "http://advances.sciencemag.org/content/2/2/e1500323",
+         "found": true,
+         "context": "…y globally at a high spatial resolution on a monthly basis. We find that two-thirds of the global population (4.0 billion people) live under conditions of severe water scarcity at least 1 month of the year. Nearly half o…",
+         "note": "",
+         "status": "found",
+         "children": [],
+         "archived": true,
+         "date": "2016-02-01",
+         "copy": false
+        }
+       ],
+       "archived": true,
+       "date": "2016-02-04",
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26933676",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204262",
+     "found": true,
+     "context": "…ty around the year 2000 (Fig. 4), but water footprint based water scarcity assessment increases the number to 4 billion [Mekonnen and Hoekstra, 2016]. When water stress and water shortage are assessed in a combined manne…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://doi.org/10.1126/sciadv.1500323",
+       "found": false,
+       "context": "",
+       "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy); checked its full report or a free copy instead",
+       "status": "unreachable",
+       "children": [
+        {
+         "url": "https://advances.sciencemag.org/content/advances/2/2/e1500323.full.pdf",
+         "found": true,
+         "context": "Four billion people facing severe water scarcity Mesfin M. Mekonnen* and Arjen Y. Hoekstra…",
+         "note": "",
+         "status": "found",
+         "children": [
+          {
+           "url": "http://advances.sciencemag.org/content/suppl/2016/02/09/2.2.e1500323.DC1",
+           "found": false,
+           "context": "",
+           "note": "number not in this page's readable text; checked its full report or a free copy instead",
+           "status": "missing",
+           "children": [
+            {
+             "url": "http://advances.sciencemag.org/highwire/filestream/188457/field_highwire_adjunct_files/0/1500323_SM.pdf",
+             "found": false,
+             "context": "",
+             "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+             "status": "unreachable",
+             "children": [],
+             "archived": false,
+             "copy": true
+            }
+           ],
+           "archived": true,
+           "copy": false
+          },
+          {
+           "url": "http://advances.sciencemag.org/content/2/2/e1500323",
+           "found": true,
+           "context": "…y globally at a high spatial resolution on a monthly basis. We find that two-thirds of the global population (4.0 billion people) live under conditions of severe water scarcity at least 1 month of the year. Nearly half o…",
+           "note": "",
+           "status": "found",
+           "children": [],
+           "archived": true,
+           "date": "2016-02-01",
+           "copy": false
+          }
+         ],
+         "archived": true,
+         "date": "2016-02-04",
+         "copy": true
+        }
+       ],
+       "archived": false,
+       "copy": false
+      },
+      {
+       "url": "https://pubmed.ncbi.nlm.nih.gov/26933676/",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": false
+      }
+     ],
+     "archived": false,
+     "date": "2017",
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1002/2016ef000518",
+     "found": false,
+     "context": "",
+     "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy); checked its full report or a free copy instead",
+     "status": "unreachable",
+     "children": [
+      {
+       "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2016EF000518",
+       "found": false,
+       "context": "",
+       "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+       "status": "unreachable",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2008-01-23"
+  },
+  "seconds": 55.3
+ },
+ {
+  "claim": "1000 cubic meters available per capita per year",
+  "url": "https://en.wikipedia.org/wiki/Water_scarcity",
+  "sentence": "Water is scarce in densely populated arid areas. These are projected to have less than 1000 cubic meters available per capita per year. Examples are Central and West Asia, and North Africa.[3] A study in 2007 found that more than 1.2 billion",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://issues.org/molden-water-food-scarcity/  (published 2007-07-01; that's 19 years ago, check for a newer figure)\n  http://oamk.fi/~mohameda/materiaali16/Water%20and%20environmental%20management%202015/2011_Brown_Matlock_Water-Availability-Assessment-Indices-and-Methodologies-Lit-Review.pdf  (published 2011-02-27; that's 15 years ago, check for a newer figure)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Water_scarcity",
+   "found": true,
+   "context": "Water is scarce in densely populated arid areas. These are projected to have less than 1000 cubic meters available per capita per year. Examples are Central and West Asia, and North Africa.[3] A study in 2007 found that…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://linkinghub.elsevier.com/retrieve/pii/S0378377405002854",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1016/j.agwat.2005.07.001",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://issues.org/molden-water-food-scarcity/",
+     "found": true,
+     "context": "…of water are vaporized to produce food for today’s 6.6 billion people. On average, each of us requires about 1,000 cubic meters of water each year for food, or about 3 cubic meters (3 tons, or 3,000 liters!) of water pe…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "2007-07-01",
+     "copy": false
+    },
+    {
+     "url": "http://oamk.fi/~mohameda/materiaali16/Water%20and%20environmental%20management%202015/2011_Brown_Matlock_Water-Availability-Assessment-Indices-and-Methodologies-Lit-Review.pdf",
+     "found": true,
+     "context": ">1,700 1,000-1,700 500-1,000 <500…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": true,
+     "date": "2011-02-27",
+     "copy": false
+    },
+    {
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1477-8947.1989.tb00348.x",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1477-8947.1989.tb00348.x",
+       "found": false,
+       "context": "",
+       "note": "the number appears, but not about the claim's topic or group",
+       "status": "off-topic",
+       "children": [],
+       "archived": true,
+       "copy": true
+      }
+     ],
+     "archived": true,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2008-01-23"
+  },
+  "seconds": 35.4
+ },
+ {
+  "claim": "a fifth of the world's population currently live",
+  "url": "https://en.wikipedia.org/wiki/Water_scarcity",
+  "sentence": "water to meet household, industrial, agricultural, and environmental needs. But they lack the means to provide it in an accessible manner.[25] Around a fifth of the world's population currently live in regions affected by physical water scarcity.[25]",
+  "verdict": "CHECK PDF",
+  "why": "The trail ends at PDF(s) SourceTrace couldn't read; search them for the number:\n  https://hdr.undp.org/system/files/documents/hdr2006escompleto.pdf",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Water_scarcity",
+   "found": true,
+   "context": "…icultural, and environmental needs. But they lack the means to provide it in an accessible manner.[25] Around a fifth of the world's population currently live in regions affected by physical water scarcity.[25]…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "http://hdr.undp.org/en/content/human-development-report-2006",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://hdr.undp.org/system/files/documents/hdr2006escompleto.pdf",
+       "found": false,
+       "context": "",
+       "note": "PDF: open it and search for the number by hand; couldn't read it (Command ['pdftotext', '-q', '/var/folders/kn/cghqdpjd269159wzxpmvy6kh0000gp/T/tmpcuarfvjx.pdf', '-'] returned non-zero exit status 99.)",
+       "status": "pdf",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://hdr.undp.org/publication/citation-export/1246",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2008-01-23"
+  },
+  "seconds": 16.5
+ },
+ {
+  "claim": "A quarter of the world's population is affected",
+  "url": "https://en.wikipedia.org/wiki/Water_scarcity",
+  "sentence": "A quarter of the world's population is affected by economic water scarcity. It is a feature of much of Sub-Saharan Africa.[4]: 11 So better water infrastructure t",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://en.wikipedia.org/wiki/Population_growth",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Water_scarcity",
+   "found": true,
+   "context": "A quarter of the world's population is affected by economic water scarcity. It is a feature of much of Sub-Saharan Africa.[4]: 11 So better water infrastructure there could help to reduce poverty. Investing in water rete…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Population_growth",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2008-01-23"
+  },
+  "seconds": 4.5
+ },
+ {
+  "claim": "46,728 gun deaths, of which 58% were suicides",
+  "url": "https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States",
+  "sentence": "ntion, the U.S. Department of Justice Bureau of Justice Statistics, the FBI, and various state and local agencies.[3][4][5] In 2023, the CDC reported 46,728 gun deaths, of which 58% were suicides, 38% were homicides, and the remainder were categorized as law enforcement related, accidental, or of undeterm",
+  "verdict": "DIFFERENT NUMBER",
+  "why": "A cited source discusses this but gives a different number. The number may have changed as it was copied:\n  https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States",
+   "found": true,
+   "context": "…reau of Justice Statistics, the FBI, and various state and local agencies.[3][4][5] In 2023, the CDC reported 46,728 gun deaths, of which 58% were suicides, 38% were homicides, and the remainder were categorized as law e…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.pewresearch.org/short-reads/2025/03/05/what-the-data-says-about-gun-deaths-in-the-us/",
+     "found": false,
+     "context": "",
+     "note": "DIFFERENT NUMBER here: In 2024, 62% of all gun-related deaths in the U.S. were suicides (27,593), while 35% were homicides (15,364).…",
+     "status": "different",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2006-11-06"
+  },
+  "seconds": 15.2
+ },
+ {
+  "claim": "50% from 2019 to 2021.[11]",
+  "url": "https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States",
+  "sentence": "According to a Pew Research Center report, gun deaths among America's children rose 50% from 2019 to 2021.[11]",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.pewresearch.org/fact-tank/2023/04/06/gun-deaths-among-us-kids-rose-50-percent-in-two-years/  (published 2023-04-06)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States",
+   "found": true,
+   "context": "According to a Pew Research Center report, gun deaths among America's children rose 50% from 2019 to 2021.[11]…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.axios.com/2023/04/10/gun-deaths-among-children-are-soaring",
+     "found": true,
+     "context": "Stunning stat: Gun deaths among America’s kids rose 50% in the last two years, according to a new Pew Research Center report. More children and teens were killed by guns in 2021 than in any year since 1999, the first yea…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://www.pewresearch.org/fact-tank/2023/04/06/gun-deaths-among-us-kids-rose-50-percent-in-two-years/",
+       "found": true,
+       "context": "Gun deaths among U.S. children and teens rose 50% in two years…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://wonder.cdc.gov/Deaths-by-Underlying-Cause.html",
+         "found": false,
+         "context": "",
+         "note": "number not in this page's readable text",
+         "status": "missing",
+         "children": [],
+         "archived": true,
+         "copy": false
+        },
+        {
+         "url": "https://www.pewresearch.org/topic/coronavirus-disease-covid-19/",
+         "found": false,
+         "context": "",
+         "note": "number not in this page's readable text",
+         "status": "missing",
+         "children": [],
+         "archived": false,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "2023-04-06",
+       "copy": false
+      }
+     ],
+     "archived": true,
+     "date": "2023-04-10",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2006-11-06"
+  },
+  "seconds": 31.1
+ },
+ {
+  "claim": "26% of Americans believe guns are the number",
+  "url": "https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States",
+  "sentence": "Polling from 2023 suggested that up to 26% of Americans believe guns are the number one national public health threat.[16]",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.ipsos.com/en-us/axios-ipsos-american-health-index?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosam&stream=top  (published 2026-11-17)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States",
+   "found": true,
+   "context": "Polling from 2023 suggested that up to 26% of Americans believe guns are the number one national public health threat.[16]…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.theguardian.com/us-news/2023/may/18/gun-violence-poll-public-health-threat",
+     "found": true,
+     "context": "After several mass shootings this year, 26% of Americans believe guns are the number one public health threat…",
+     "note": "",
+     "status": "found",
+     "children": [
+      {
+       "url": "https://www.ipsos.com/en-us/axios-ipsos-american-health-index?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosam&stream=top",
+       "found": true,
+       "context": "…bruary). Unlike opioids and fentanyl, this item tends to fluctuate more due to specific events. One year ago, 26% said access to guns was the biggest public health issue in the Axios/Ipsos American Health Index wave that…",
+       "note": "",
+       "status": "found",
+       "children": [
+        {
+         "url": "https://www.axios.com/2024/06/05/may-record-global-heat-12th-straight-month",
+         "found": false,
+         "context": "",
+         "note": "number not in this page's readable text",
+         "status": "missing",
+         "children": [],
+         "archived": true,
+         "copy": false
+        }
+       ],
+       "archived": false,
+       "date": "2026-11-17",
+       "copy": false
+      }
+     ],
+     "archived": false,
+     "date": "2023-05-18",
+     "copy": false
+    },
+    {
+     "url": "https://www.ncjrs.gov/pdffiles/165476.pdf",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2006-11-06"
+  },
+  "seconds": 18.0
+ },
+ {
+  "claim": "306 million people, there were 310 million firearms",
+  "url": "https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States",
+  "sentence": "The Congressional Research Service in 2009 estimated that among the U.S. population of 306 million people, there were 310 million firearms in the U.S., not including military armaments. Of these, 114 million were handguns, 110 million were rifles, ",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  http://nbcpolitics.nbcnews.com/_news/2012/12/18/15977143-gun-control-offers-no-cure-all-in-america\n  https://www.census.gov/newsroom/releases/archives/population/cb08-191.html\n  https://blogs.wsj.com/numbers/guns-present-polling-conundrum-1223/\n  http://www.cbsnews.com/news/number-of-households-with-guns-on-the-decline-study-shows/",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States",
+   "found": true,
+   "context": "The Congressional Research Service in 2009 estimated that among the U.S. population of 306 million people, there were 310 million firearms in the U.S., not including military armaments. Of these, 114 million were handgun…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "http://nbcpolitics.nbcnews.com/_news/2012/12/18/15977143-gun-control-offers-no-cure-all-in-america",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://www.census.gov/newsroom/releases/archives/population/cb08-191.html",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "https://blogs.wsj.com/numbers/guns-present-polling-conundrum-1223/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    },
+    {
+     "url": "http://www.cbsnews.com/news/number-of-households-with-guns-on-the-decline-study-shows/",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2006-11-06"
+  },
+  "seconds": 11.8
+ },
+ {
+  "claim": "54 million people worldwide sustained injuries from traffic",
+  "url": "https://en.wikipedia.org/wiki/Traffic_collision",
+  "sentence": "In 2013, 54 million people worldwide sustained injuries from traffic collisions.[4] This resulted in 1.4 million deaths in 2013, up from 1.1 million deaths in 1990.[5] A",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4561509\n  https://pmc.ncbi.nlm.nih.gov:443/articles/instance/4561509/bin/NIHMS64121-supplement-Supplementary_appendix_1.pdf\n  https://pmc.ncbi.nlm.nih.gov:443/articles/instance/4561509/bin/NIHMS64121-supplement-Supplementary_appendix_2.pdf\n  https://doi.org/10.1016/s0140-6736(15)60692-4\n  https://pubmed.ncbi.nlm.nih.gov/26063472",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Traffic_collision",
+   "found": true,
+   "context": "In 2013, 54 million people worldwide sustained injuries from traffic collisions.[4] This resulted in 1.4 million deaths in 2013, up from 1.1 million deaths in 1990.[5] About 68,000 of these occurred with children less th…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4561509",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://pmc.ncbi.nlm.nih.gov:443/articles/instance/4561509/bin/NIHMS64121-supplement-Supplementary_appendix_1.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      },
+      {
+       "url": "https://pmc.ncbi.nlm.nih.gov:443/articles/instance/4561509/bin/NIHMS64121-supplement-Supplementary_appendix_2.pdf",
+       "found": false,
+       "context": "",
+       "note": "number not in this page's readable text",
+       "status": "missing",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://doi.org/10.1016/s0140-6736(15)60692-4",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text; checked its full report or a free copy instead",
+     "status": "missing",
+     "children": [
+      {
+       "url": "https://www.sciencedirect.com/science/article/am/pii/S0140673615606924",
+       "found": false,
+       "context": "",
+       "note": "could not open it or an archived copy (HTTP Error 403: Forbidden; archive: no copy)",
+       "status": "unreachable",
+       "children": [],
+       "archived": false,
+       "copy": true
+      }
+     ],
+     "archived": false,
+     "copy": false
+    },
+    {
+     "url": "https://pubmed.ncbi.nlm.nih.gov/26063472",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": false,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2003-08-23"
+  },
+  "seconds": 20.0
+ },
+ {
+  "claim": "100 people die in motor vehicle crashes each",
+  "url": "https://en.wikipedia.org/wiki/Traffic_collision",
+  "sentence": "and contusions to catastrophic physical injury (e.g., paralysis), traumatic or non-traumatic cardiac arrest and death. The CDC estimates that roughly 100 people die in motor vehicle crashes each day in the United States.[30]",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://www.cdc.gov/transportationsafety/  (published 2024-05-10)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Traffic_collision",
+   "found": true,
+   "context": "…injury (e.g., paralysis), traumatic or non-traumatic cardiac arrest and death. The CDC estimates that roughly 100 people die in motor vehicle crashes each day in the United States.[30]…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://www.cdc.gov/transportationsafety/",
+     "found": true,
+     "context": "Motor vehicle crashes are a leading cause of death and kill over 100 people every day. Learn more about Transportation Safety. View All…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": false,
+     "date": "2024-05-10",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2003-08-23"
+  },
+  "seconds": 4.1
+ },
+ {
+  "claim": "57% of crashes were due solely to driver",
+  "url": "https://en.wikipedia.org/wiki/Traffic_collision",
+  "sentence": "hting conditions, pavement markings, and roadway obstacles.[33] A 1985 study by K. Rumar, using British and American crash reports as data, suggested 57% of crashes were due solely to driver factors, 27% to the combined roadway and driver factors, 6% to the combined vehicle and driver factors, 3% solel",
+  "verdict": "TRACED",
+  "why": "Found the earliest page(s) that state the number and cite nothing further for it:\n  https://highways.dot.gov/public-roads/winter-1995/interactive-highway-safety-design-model-accident-predictive-module  (publication date unknown)",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Traffic_collision",
+   "found": true,
+   "context": "…roadway obstacles.[33] A 1985 study by K. Rumar, using British and American crash reports as data, suggested 57% of crashes were due solely to driver factors, 27% to the combined roadway and driver factors, 6% to the co…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://highways.dot.gov/public-roads/winter-1995/interactive-highway-safety-design-model-accident-predictive-module",
+     "found": true,
+     "context": "This study notes that only 3 percent of accidents are due solely to the roadway environment, 57 percent solely to drivers, 2 percent solely to vehicles, 27 percent to the interaction between road environment and drivers,…",
+     "note": "",
+     "status": "found",
+     "children": [],
+     "archived": true,
+     "date": "",
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2003-08-23"
+  },
+  "seconds": 14.3
+ },
+ {
+  "claim": "93% of crashes.[34] A 2019 report from the",
+  "url": "https://en.wikipedia.org/wiki/Traffic_collision",
+  "sentence": "A 1985 report based on British and American crash data found driver error, intoxication, and other human factors contribute wholly or partly to about 93% of crashes.[34] A 2019 report from the U.S. National Highway Traffic Safety Administration found that leading contributing factors for fatal crashes ",
+  "verdict": "UNVERIFIED",
+  "why": "The cited sources opened, but none states this number in its readable text. It may be in a chart, table image or paywalled full text, or the citation may be wrong:\n  https://highways.dot.gov/public-roads/winter-1995/interactive-highway-safety-design-model-accident-predictive-module",
+  "tree": {
+   "url": "https://en.wikipedia.org/wiki/Traffic_collision",
+   "found": true,
+   "context": "…can crash data found driver error, intoxication, and other human factors contribute wholly or partly to about 93% of crashes.[34] A 2019 report from the U.S. National Highway Traffic Safety Administration found that lead…",
+   "note": "",
+   "status": "found",
+   "children": [
+    {
+     "url": "https://highways.dot.gov/public-roads/winter-1995/interactive-highway-safety-design-model-accident-predictive-module",
+     "found": false,
+     "context": "",
+     "note": "number not in this page's readable text",
+     "status": "missing",
+     "children": [],
+     "archived": true,
+     "copy": false
+    }
+   ],
+   "archived": false,
+   "date": "2003-08-23"
+  },
+  "seconds": 8.6
+ }
+]
