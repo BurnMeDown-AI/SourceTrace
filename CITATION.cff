@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use SourceTrace in research or reporting, please cite it as below."
+title: "SourceTrace: follow a statistic back to where it came from"
+type: software
+authors:
+  - alias: BurnMeDown
+version: 0.5.1
+date-released: 2026-11-17
+license: MIT
+repository-code: "https://github.com/BurnMeDown-AI/SourceTrace"
+url: "https://burnmedown-ai.github.io/SourceTrace/"
+keywords:
+  - fact-checking
+  - statistics
+  - citations
+  - misinformation
+  - provenance
+abstract: >-
+  SourceTrace takes a claim and the page where it appears, follows the page's
+  citations hop by hop, checks that each source states that number about that
+  topic, and reports where the trail ends.
