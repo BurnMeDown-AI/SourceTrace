@@ -2,6 +2,10 @@
 
 **Follow a statistic back to where it actually came from.**
 
+A free, open-source fact-checking tool for statistics: give it a number and the page where you saw it, and it traces the citation chain to the original source. Works from the command line, in Docker, or as an AI agent skill for Claude Code and other agents.
+
+[![tests](https://github.com/BurnMeDown-AI/SourceTrace/actions/workflows/tests.yml/badge.svg)](https://github.com/BurnMeDown-AI/SourceTrace/actions/workflows/tests.yml)
+
 Numbers get copied from article to article until nobody can say where they started. On the way they change: "4%" becomes "40%", "large projects" quietly drops off, a 2009 figure gets cited as current. AI-written articles make this worse, and AI assistants repeat whatever they read.
 
 SourceTrace takes a claim and the page where you saw it. It follows that page's citations hop by hop, checks whether each source really states that number about that topic, and tells you where the trail ends.
