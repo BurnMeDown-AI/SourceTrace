@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SourceTrace: trace a statistic back to its original source</title>
+<meta name="description" content="Free, open-source fact-checking tool for statistics. Give it a number and the page where you saw it; it follows the citations to the original source and tells you if the number changed on the way.">
+<link rel="canonical" href="https://burnmedown-ai.github.io/SourceTrace/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="SourceTrace: where did that number come from?">
+<meta property="og:description" content="Follows a statistic through its citations to the original source. Free and open source, for the command line and AI agents.">
+<meta property="og:url" content="https://burnmedown-ai.github.io/SourceTrace/">
+<meta name="twitter:card" content="summary">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [
+ {"@type": "SoftwareApplication", "name": "SourceTrace", "softwareVersion": "0.5.1",
+  "applicationCategory": "DeveloperApplication", "operatingSystem": "macOS, Linux, Windows",
+  "description": "Follows a statistic through its citations to the original source and reports whether the number changed on the way.",
+  "url": "https://burnmedown-ai.github.io/SourceTrace/", "downloadUrl": "https://github.com/BurnMeDown-AI/SourceTrace",
+  "license": "https://opensource.org/licenses/MIT", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}},
+ {"@type": "FAQPage", "mainEntity": [
+  {"@type": "Question", "name": "Does SourceTrace prove a statistic is true?",
+   "acceptedAnswer": {"@type": "Answer", "text": "No. It finds where the trail of citations ends and whether the number changed on the way. It does not judge whether the original study was sound."}},
+  {"@type": "Question", "name": "Can my AI assistant use it?",
+   "acceptedAnswer": {"@type": "Answer", "text": "Yes. It ships with an Agent Skill. Copy skills/sourcetrace into ~/.claude/skills/ and Claude Code traces a number before citing it, then checks the quoted passage means the same thing."}},
+  {"@type": "Question", "name": "What leaves my machine?",
+   "acceptedAnswer": {"@type": "Answer", "text": "Only requests for the pages it reads, the address of a dead page to the Wayback Machine, and a paper's DOI to OpenAlex. Your claim is never sent anywhere."}},
+  {"@type": "Question", "name": "What can't it read?",
+   "acceptedAnswer": {"@type": "Answer", "text": "Numbers shown only in charts or images, and papers behind a paywall with no free copy."}}]}]}
+</script>
+</head>
+<body>
+
+<header class="mast">
+  <div class="container">
+    <a class="wordmark" href="./">SourceTrace<span class="num">0.5.1</span></a>
+    <nav aria-label="Sections">
+      <ul>
+        <li><a href="#verdicts">Verdicts</a></li>
+        <li><a href="#results">Results</a></li>
+        <li><a href="#questions">Questions</a></li>
+        <li><a href="#install">Install</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section class="hero" aria-labelledby="hero-title">
+  <div class="container">
+    <div class="hero-text">
+      <h1 id="hero-title">Where did that number come from?</h1>
+      <p class="lead">SourceTrace follows a statistic through its citations to the original source.</p>
+      <div class="actions">
+        <a class="btn btn--primary" href="https://github.com/BurnMeDown-AI/SourceTrace">Get it on GitHub</a>
+        <a class="btn" href="#install">Install it</a>
+      </div>
+    </div>
+
+    <figure class="sheet" aria-labelledby="trace-title">
+      <div class="sheet-head">
+        <h2 id="trace-title">One claim, three sites</h2>
+        <span class="verdict">Traced</span>
+      </div>
+      <table>
+        <thead><tr><th scope="col">Hop</th><th scope="col">Page</th><th scope="col" class="num">As written</th></tr></thead>
+        <tbody>
+          <tr><td class="num">1</td><td><span class="site">theregister.com</span><span class="kind">News story</span></td><td class="num">a quarter</td></tr>
+          <tr><td class="num">2</td><td><span class="site">linuxfoundation.org</span><span class="kind">Press release</span></td><td class="num">25%</td></tr>
+          <tr class="origin"><td class="num">3</td><td><span class="site">linuxfoundation.org/research</span><span class="kind">The research report, the origin</span></td><td class="num">1 in 4</td></tr>
+        </tbody>
+      </table>
+      <figcaption class="caption">Claim: <em>a quarter of incoming pull requests are AI slop.</em> A real run.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section id="verdicts" aria-labelledby="verdicts-title">
+  <div class="container split">
+    <div class="side">
+      <h2 id="verdicts-title">It tells you where the trail ends.</h2>
+      <p>Same number, same topic, however it’s written.</p>
+    </div>
+    <div class="main sheet">
+      <table>
+        <thead><tr><th scope="col">Verdict</th><th scope="col">What it means</th></tr></thead>
+        <tbody>
+          <tr><td class="verdict-name">Traced</td><td>The earliest page that states it, dated.</td></tr>
+          <tr><td class="verdict-name">Different number</td><td>The source gives another figure, quoted.</td></tr>
+          <tr><td class="verdict-name">Unverified</td><td>No cited source states it.</td></tr>
+          <tr><td class="verdict-name">Orphan</td><td>Nothing is cited for it.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section id="results" class="well" aria-labelledby="results-title">
+  <div class="container split">
+    <div class="side">
+      <h2 id="results-title">Graded by hand, on real pages.</h2>
+      <p>Real claims from statistics round-ups, news and Wikipedia.</p>
+    </div>
+    <div class="main sheet">
+      <table>
+        <thead><tr><th scope="col">Set</th><th scope="col" class="num">Claims</th><th scope="col" class="num">Traced and right</th><th scope="col" class="num">Share</th></tr></thead>
+        <tbody>
+          <tr><td>Fresh pages, unseen</td><td class="num">73</td><td class="num">24 of 31</td><td class="num">77%</td></tr>
+          <tr><td>Held-out pages, v0.5.1</td><td class="num">99</td><td class="num">25 of 27</td><td class="num">93%</td></tr>
+        </tbody>
+      </table>
+      <p class="caption">All the data is in <a href="https://github.com/BurnMeDown-AI/SourceTrace/tree/main/bench">bench/</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section id="questions" aria-labelledby="questions-title">
+  <div class="container">
+    <h2 id="questions-title">Questions people ask</h2>
+    <div class="faq">
+      <div><h3>Does it prove a statistic is true?</h3><p>No. It shows where the trail ends.</p></div>
+      <div><h3>Can my AI assistant use it?</h3><p>Yes, through the included Agent Skill.</p></div>
+      <div><h3>What leaves my machine?</h3><p>Page addresses and DOIs. Never your claim.</p></div>
+      <div><h3>What can’t it read?</h3><p>Charts, and paywalls with no free copy.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="install" class="band--ink" aria-labelledby="install-title">
+  <div class="container split">
+    <div class="side">
+      <h2 id="install-title">Free, and one line to install.</h2>
+      <p class="lead">MIT licensed. Python 3.9 or newer.</p>
+      <div class="actions"><a class="btn" href="https://github.com/BurnMeDown-AI/SourceTrace#readme">Read the guide</a></div>
+    </div>
+    <div class="main cmds">
+      <div><span class="label">With pip</span><code>pip install git+https://github.com/BurnMeDown-AI/SourceTrace</code></div>
+      <div><span class="label">With Docker, PDF and OCR included</span><code>docker build -t sourcetrace https://github.com/BurnMeDown-AI/SourceTrace.git</code></div>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="about">
+      <a class="wordmark" href="./">SourceTrace</a>
+      <p>Follow a statistic back to where it came from. By BurnMeDown.</p>
+    </div>
+    <div class="col">
+      <h2>Project</h2>
+      <ul><li><a href="https://github.com/BurnMeDown-AI/SourceTrace">GitHub</a></li><li><a href="https://github.com/BurnMeDown-AI/SourceTrace/blob/main/LICENSE">MIT licence</a></li></ul>
+    </div>
+    <div class="col">
+      <h2>Use</h2>
+      <ul><li><a href="#install">Install</a></li><li><a href="https://github.com/BurnMeDown-AI/SourceTrace/blob/main/skills/sourcetrace/SKILL.md">Agent Skill</a></li></ul>
+    </div>
+    <div class="col">
+      <h2>Evidence</h2>
+      <ul><li><a href="https://github.com/BurnMeDown-AI/SourceTrace/tree/main/bench">Benchmark data</a></li><li><a href="#results">Results</a></li></ul>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
