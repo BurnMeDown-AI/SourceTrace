@@ -141,7 +141,7 @@ sourcetrace CLAIM URL [--number N] [--depth 3] [--links 5] [--pages 30] [--timeo
 
 ## Use it from an AI agent
 
-AI assistants repeat statistics they can't trace. [`skills/sourcetrace/SKILL.md`](skills/sourcetrace/SKILL.md) is an [Agent Skill](https://github.com/anthropics/skills) that tells an agent to:
+AI assistants repeat statistics they can't trace. [`skills/sourcetrace/SKILL.md`](https://github.com/BurnMeDown-AI/SourceTrace/blob/main/skills/sourcetrace/SKILL.md) is an [Agent Skill](https://github.com/anthropics/skills) that tells an agent to:
 - **Trace a number before citing it**, and act on each verdict.
 - **Check the meaning itself.** SourceTrace matches numbers and words; the agent reads each origin's quoted passage and confirms it's the same group, measure and period as the claim.
 - **Search first when there's no URL.** Given just a statistic, the agent searches the web for it and traces the best results.
