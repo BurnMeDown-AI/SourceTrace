@@ -4,7 +4,7 @@
 
 A free, open-source fact-checking tool for statistics: give it a number and the page where you saw it, and it traces the citation chain to the original source. Works from the command line, in Docker, or as an AI agent skill for Claude Code and other agents.
 
-[![tests](https://github.com/BurnMeDown-AI/SourceTrace/actions/workflows/tests.yml/badge.svg)](https://github.com/BurnMeDown-AI/SourceTrace/actions/workflows/tests.yml)
+[![tests](https://github.com/BurnMeDown-AI/SourceTrace/actions/workflows/tests.yml/badge.svg)](https://github.com/BurnMeDown-AI/SourceTrace/actions/workflows/tests.yml) [![PyPI](https://img.shields.io/pypi/v/sourcetrace)](https://pypi.org/project/sourcetrace/)
 
 Numbers get copied from article to article until nobody can say where they started. On the way they change: "4%" becomes "40%", "large projects" quietly drops off, a 2009 figure gets cited as current. AI-written articles make this worse, and AI assistants repeat whatever they read.
 
@@ -75,7 +75,7 @@ The 7 wrong TRACED results fell into three patterns: a *change* matched as a *sh
 Needs Python 3.9 or newer. There are no Python dependencies.
 
 ```bash
-pip install git+https://github.com/BurnMeDown-AI/SourceTrace
+pip install sourcetrace
 sourcetrace "47% of adults met the guidelines" https://example.com/article
 ```
 

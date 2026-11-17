@@ -15,7 +15,7 @@ sourcetrace --json "<the claim, with its number>" "<URL of the page where you fo
 ```
 
 If the `sourcetrace` command isn't installed, use one of these, in this order:
-- `pip install git+https://github.com/BurnMeDown-AI/SourceTrace`
+- `pip install sourcetrace`
 - `python3 sourcetrace.py` from a clone
 - `docker run --rm sourcetrace ...` after `docker build -t sourcetrace .` in a clone. The image includes PDF and OCR support.
 
